@@ -3,6 +3,7 @@ title: 'Getting Started'
 taxonomy:
     category:
         - docs
+redirect: /basics/overview/system-requirements
 visible: true
 ---
 
