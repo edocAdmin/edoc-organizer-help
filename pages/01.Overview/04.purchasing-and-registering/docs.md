@@ -1,5 +1,8 @@
 ---
 title: 'Purchasing and Registering'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
