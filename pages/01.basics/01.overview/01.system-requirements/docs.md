@@ -11,5 +11,5 @@ visible: true
 | **RAM**  | 2 Gigabyte (GB) RAM (32-bit) or above|
 | **Screen Resolution**  | SVGA (1024x768 with 16-bit color) or greater |
 | **Hard Drive**  | 10 GB and above  |
-| **Other Software**  | Microsoft .NET Framework 4 (Installed automatically by the installer) |
+| **Other Software**  | Microsoft .NET Framework 4.6.1 (Installed automatically by the installer) |
 |** Additional Requirements**  | Javascript and Cookies Enabled in the Browser |
