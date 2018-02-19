@@ -1,8 +1,7 @@
 ---
 title: Overview
 taxonomy:
-    category:
-        - docs
+    category: docs
 child_type: docs
 ---
 
