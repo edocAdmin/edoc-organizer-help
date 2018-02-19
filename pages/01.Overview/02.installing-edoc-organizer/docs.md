@@ -1,5 +1,8 @@
 ---
 title: 'Installing eDoc Organizer'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
