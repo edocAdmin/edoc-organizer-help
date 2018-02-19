@@ -6,4 +6,12 @@ taxonomy:
 visible: true
 ---
 
-Your page content goes here.
+Note: Before you purchase eDoc Organizer, you can try it freely for 30 days.
+ 
+You can download and install eDoc Organizer from our web site home page. Installing eDoc Organizer is very easy. If you have any problems in the installation process, please contact our [technical support team](mailto:support@edocllc.com).
+ 
+Note: Before installing eDoc Organizer, please refer the [System Requirements](http://edocorganizer-help.azurewebsites.net/overview/system-requirements) section.
+ 
+To download trial version of eDoc Organizer, simply follow the steps given below.
+ 
+1. Navigate to the eDoc Oganizer home page by entering the URL, http://www.edocorganizer.com/ on your Browser's address bar.
