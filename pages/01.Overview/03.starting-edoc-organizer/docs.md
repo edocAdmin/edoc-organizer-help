@@ -1,5 +1,8 @@
 ---
 title: 'Starting eDoc Organizer'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
