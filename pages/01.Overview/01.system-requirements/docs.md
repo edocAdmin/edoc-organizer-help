@@ -1,5 +1,8 @@
 ---
 title: 'System Requirements'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
