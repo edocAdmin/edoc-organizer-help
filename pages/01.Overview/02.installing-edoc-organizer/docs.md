@@ -1,6 +1,6 @@
 ---
 title: 'Installing eDoc Organizer'
-media_order: '2018-02-19_19h07_58.png,2018-02-19_19h34_24.png,2018-02-19_19h46_17.png,2018-02-19_19h56_02.png,2018-02-19_20h01_44.png,2018-02-19_20h20_25.png,2018-02-19_20h31_32.png,2018-02-19_20h43_07.png,2018-02-19_20h52_38.png,2018-02-19_21h08_48.png,2018-02-19_21h15_23.png'
+media_order: '2018-02-19_19h07_58.png,2018-02-19_19h34_24.png,2018-02-19_19h46_17.png,2018-02-19_19h56_02.png,2018-02-19_20h01_44.png,2018-02-19_20h20_25.png,2018-02-19_20h31_32.png,2018-02-19_20h43_07.png,2018-02-19_20h52_38.png,2018-02-19_21h08_48.png,2018-02-19_21h15_23.png,2018-02-20_13h52_40.png'
 taxonomy:
     category:
         - docs
@@ -60,3 +60,13 @@ The eDoc Organizer On-Premise Home page will be displayed.
 10. eDoc Organizer On-Premise will display. **Note: It will show as a trial version until it has been activated. The date will display how long is left in the trial.**
 
 ![](2018-02-19_21h15_23.png)
+
+# Cloud
+
+1. Navigate to the eDoc Oganizer Cloud home page by entering the URL, [http://cloud.edocorganizer.com/](http://cloud.edocorganizer.com/)on your browser's address bar, and click on "Sign Up" or "Start your free 15 day trial today" at the bottom. 
+
+![](2018-02-20_13h52_40.png)
+
+2. Fill out the required information to get started. For security purposes, you will need to provide a credit card, but it will not be charged until the end of the 15 day trial.
+
+![](2018-02-20_14h02_14.png)
