@@ -40,3 +40,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 5. Double-click on the installer to start installation.
 
 ![](2018-02-19_20h20_25.png)
+
+6. Follow the steps to install On-Premise
+
+![](2018-02-19_20h31_32.png)
