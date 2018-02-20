@@ -21,7 +21,7 @@ visible: true
 
 # **Cloud Edition: Desktop Client**
 
-**Note: You can access Cloud Edition via any internet browser, such as Safari, Firefox, Chrome, etc. The requirements are for the Windows Cloud Desktop.
+**Note: You can access Cloud Edition via any internet browser, such as Safari, Firefox, Chrome, etc. The requirements are for the Windows Cloud Desktop.**
 
 | **System**  | **Requirements** |
 | ------------- | ------------- |
