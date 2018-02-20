@@ -36,3 +36,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 4. The Download progress will show. Open your **Downloads** folder when the download is complete.
 
 ![](2018-02-19_20h01_44.png)
+
+5. Double-click on the installer to start installation.
+
+![](2018-02-19_20h20_25.png)
