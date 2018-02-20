@@ -48,3 +48,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 7. After successfull installation, click **Run eDoc Organizer On-Premise** to start the program.
 
 ![](2018-02-19_20h43_07.png)
+
+8. Upon launching the program, you'll be prompted to configure the eDoc Organizer On-Premise Manager. Click the **Configure eDoc Organizer** button to start.
+
+![](2018-02-19_20h52_38.png)
