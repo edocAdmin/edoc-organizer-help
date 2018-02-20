@@ -1,6 +1,6 @@
 ---
 title: 'Installing eDoc Organizer'
-media_order: 2018-02-19_19h07_58.png
+media_order: '2018-02-19_19h07_58.png,2018-02-19_19h34_24.png,2018-02-19_19h46_17.png,2018-02-19_19h56_02.png,2018-02-19_20h01_44.png'
 taxonomy:
     category:
         - docs
@@ -28,3 +28,9 @@ The eDoc Organizer On-Premise Home page will be displayed.
 2. Click on **Try now** to go to the download page for On-Premise trial. 
 
 ![](2018-02-19_19h46_17.png)
+
+3. Click the **Download Free Trial Now** link. The dialog box asking you to save the file will be displayed.
+
+![](2018-02-19_19h56_02.png)
+
+4. The Download progress will show. Open your **Downloads** folder when the download is complete.
