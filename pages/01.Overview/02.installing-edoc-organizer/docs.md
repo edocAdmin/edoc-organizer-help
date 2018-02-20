@@ -17,7 +17,7 @@ To download either edition of eDoc Organizer, simply follow the steps given belo
 
 # On-Premise
  
-1. Navigate to the eDoc Oganizer On-Premise home page by entering the URL, [http://on-premise.edocorganizer.com/](http://on-premise.edocorganizer.com/)on your browser's address bar.
+1. Navigate to the eDoc Oganizer On-Premise home page by entering the URL, [http://on-premise.edocorganizer.com/](http://on-premise.edocorganizer.com/) on your browser's address bar.
 
 ![](2018-02-19_19h07_58.png)
 
