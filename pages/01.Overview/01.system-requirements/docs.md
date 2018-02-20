@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+# **eDoc Organizer: On-Premise Edition**
+
 | **System**  | **Requirements** |
 | ------------- | ------------- |
 | **Operating System**  | Windows 7 (32 bit or 64 bit), Window  8 (32 bit or 64 bit), Windows 10 |
