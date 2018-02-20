@@ -70,3 +70,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 2. Fill out the required information, such as how many computers, the kind of Cloud account you want, to get started. For security purposes, you will need to provide a credit card, but it will not be charged until the end of the 15 day trial.
 
 ![](2018-02-20_14h02_14.png)
+
+3. Once the account is created and signed up, you can log into your Cloud account and see the options available online. There are links to the the Windows Cloud Client and Mac Cloud Client with instructions on how to install them.
+
+![](2018-02-20_15h19_41.png)
