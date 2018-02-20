@@ -1,6 +1,6 @@
 ---
 title: 'Installing eDoc Organizer'
-media_order: '2018-02-19_19h07_58.png,2018-02-19_19h34_24.png,2018-02-19_19h46_17.png,2018-02-19_19h56_02.png,2018-02-19_20h01_44.png,2018-02-19_20h20_25.png,2018-02-19_20h31_32.png,2018-02-19_20h43_07.png,2018-02-19_20h52_38.png,2018-02-19_21h08_48.png'
+media_order: '2018-02-19_19h07_58.png,2018-02-19_19h34_24.png,2018-02-19_19h46_17.png,2018-02-19_19h56_02.png,2018-02-19_20h01_44.png,2018-02-19_20h20_25.png,2018-02-19_20h31_32.png,2018-02-19_20h43_07.png,2018-02-19_20h52_38.png,2018-02-19_21h08_48.png,2018-02-19_21h15_23.png'
 taxonomy:
     category:
         - docs
@@ -56,3 +56,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 9. Once you have set up the basic manager, the Manager page will display. Here you can configure your backup, and change the default location of your documents if you like. Once you are satisfied with the options, start eDoc Organizer to begin.
 
 ![](2018-02-19_21h08_48.png)
+
+10. eDoc Organizer On-Premise will display. **Note: It will show as a trial version until it has been activated. The date will display how long is left in the trial.**
+
+![](2018-02-19_21h15_23.png)
