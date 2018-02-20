@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# **eDoc Organizer: On-Premise Edition**
+# **On-Premise Edition**
 
 | **System**  | **Requirements** |
 | ------------- | ------------- |
