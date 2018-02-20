@@ -12,6 +12,8 @@ You can download and install eDoc Organizer from our web site home page. Install
  
 **Note: Before installing eDoc Organizer, please refer to the [System Requirements](http://edocorganizer-help.azurewebsites.net/overview/system-requirements) section.**
  
-To download trial version of eDoc Organizer, simply follow the steps given below.
+To download either edition of eDoc Organizer, simply follow the steps given below.
+
+# On-Premise
  
-1. Navigate to the eDoc Oganizer home page by entering the URL, [http://www.edocorganizer.com/ ](http://www.edocorganizer.com/)on your Browser's address bar.
+1. Navigate to the eDoc Oganizer On-Premise home page by entering the URL, [http://on-premise.edocorganizer.com/](http://on-premise.edocorganizer.com/)on your Browser's address bar.
