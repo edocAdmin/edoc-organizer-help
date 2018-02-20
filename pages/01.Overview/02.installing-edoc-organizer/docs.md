@@ -24,3 +24,7 @@ To download either edition of eDoc Organizer, simply follow the steps given belo
 The eDoc Organizer On-Premise Home page will be displayed.
 
 ![](2018-02-19_19h34_24.png)
+
+2. Click on **Try now** to go to the download page for On-Premise trial. 
+
+![](2018-02-19_19h46_17.png)
