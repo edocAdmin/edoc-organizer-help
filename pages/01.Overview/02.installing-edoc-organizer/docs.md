@@ -63,10 +63,10 @@ The eDoc Organizer On-Premise Home page will be displayed.
 
 # Cloud
 
-1. Navigate to the eDoc Oganizer Cloud home page by entering the URL, [http://cloud.edocorganizer.com/](http://cloud.edocorganizer.com/)on your browser's address bar, and click on "Sign Up" or "Start your free 15 day trial today" at the bottom. 
+1. Navigate to the eDoc Oganizer Cloud home page by entering the URL, [http://cloud.edocorganizer.com/](http://cloud.edocorganizer.com/) on your browser's address bar, and click on "Sign Up" or "Start your free 15 day trial today" at the bottom. 
 
 ![](2018-02-20_13h52_40.png)
 
-2. Fill out the required information to get started. For security purposes, you will need to provide a credit card, but it will not be charged until the end of the 15 day trial.
+2. Fill out the required information, such as how many computers, the kind of Cloud account you want, to get started. For security purposes, you will need to provide a credit card, but it will not be charged until the end of the 15 day trial.
 
 ![](2018-02-20_14h02_14.png)
