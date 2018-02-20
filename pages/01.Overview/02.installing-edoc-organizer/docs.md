@@ -14,4 +14,4 @@ You can download and install eDoc Organizer from our web site home page. Install
  
 To download trial version of eDoc Organizer, simply follow the steps given below.
  
-1. Navigate to the eDoc Oganizer home page by entering the URL, http://www.edocorganizer.com/ on your Browser's address bar.
+1. Navigate to the eDoc Oganizer home page by entering the URL, [http://www.edocorganizer.com/ ](http://www.edocorganizer.com/)on your Browser's address bar.
