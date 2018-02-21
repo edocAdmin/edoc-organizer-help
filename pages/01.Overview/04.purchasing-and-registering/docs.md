@@ -9,7 +9,7 @@ visible: true
 
 # On-Premise
 
-Once you have downloaded the trial version of On-Premise, you can use that version for 15 days free of cost. You must purchase and register the product before 15 days to make sure that the trial version doesn’t expire and you lose all your valuable files.
+Once you have downloaded the trial version of On-Premise, you can use that version for 15 days free of cost. You must purchase and register the product before 15 days to make sure that the trial version doesn’t expire and you lose access to your valuable files.
 
 1. To purchase your copy of On-Premise, navigate to [http://on-premise.edocorganizer.com](http://on-premise.edocorganizer.com) and click on "Buy Now." You can choose the $10/month subscription, or the $100/year subscription.
 
