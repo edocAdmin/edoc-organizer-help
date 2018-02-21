@@ -23,7 +23,7 @@ Once you have downloaded the trial version of On-Premise, you can use that versi
 
 ![](2018-02-20_16h39_08.png)
 
-4. The following pop up screen will appear, prompting you to put in your username and password.
+4. The following pop up screen will appear, prompting you to put in your username and password. It is the same username and password you selected for step 2.
 
 ![](2018-02-20_16h48_43.png)
 
