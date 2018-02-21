@@ -74,3 +74,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 3. Once the account is created and signed up, you can log into your Cloud account and see the options available online. There are links to the the Windows Cloud Client and Mac Cloud Client with instructions on how to install them.
 
 ![](2018-02-20_15h19_41.png)
+
+4. To install the Windows Cloud Client, launch the Client once it has installed.
+
+![](2018-02-20_20h34_01.png)
