@@ -26,3 +26,7 @@ Once you have downloaded the trial version of On-Premise, you can use that versi
 4. The following pop up screen will appear, prompting you to put in your username and password.
 
 ![](2018-02-20_16h48_43.png)
+
+5. Activate, and you will receive a prompt once successful, along with a confirmation email.
+
+![](2018-02-20_19h54_44.png)![](2018-02-20_20h04_18.png)
