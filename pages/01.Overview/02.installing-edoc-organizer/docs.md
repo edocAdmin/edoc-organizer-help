@@ -75,7 +75,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 
 ![](2018-02-20_15h19_41.png)
 
-4. To install the Windows Cloud Client, launch the Client once it has installed.
+4. To use the Windows Cloud Client, launch the Client once it has installed.
 
 ![](2018-02-20_20h34_01.png)
 
