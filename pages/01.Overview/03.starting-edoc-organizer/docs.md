@@ -12,4 +12,4 @@ Starting eDoc Organizer is very easy. You can either type in "eDoc Organizer" in
 
 # Cloud
 
-Navigate to the eDoc Oganizer Cloud home page by entering the URL, [http://cloud.edocorganizer.com/](http://cloud.edocorganizer.com/) on your browser's address bar. Click the "Log In" button, enter in your credentials, and you'll be in your Cloud account. Additionally, you can access the Cloud Windows Client by typing in "eDoc Organizer Cloud" or Start menu -> All Programs -> eDoc Organizer Cloud Client -> eDoc Organizer Cloud Client
+Navigate to the eDoc Oganizer Cloud home page by entering the URL, [http://cloud.edocorganizer.com/](http://cloud.edocorganizer.com/) on your browser's address bar. Click the "Log In" button, enter in your credentials, and you'll be in your Cloud account. Additionally, you can access the Cloud Windows Client by typing in "eDoc Organizer Cloud" or Start menu -> All Programs -> eDoc Organizer Cloud Client -> eDoc Organizer Cloud Client.
