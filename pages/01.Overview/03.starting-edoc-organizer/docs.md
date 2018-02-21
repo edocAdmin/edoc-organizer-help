@@ -8,7 +8,7 @@ visible: true
 
 # On-Premise
 
-Starting eDoc Organizer is very easy. You can either type in "eDoc Organizer" in your Windows' search bar, or navigate to Start menu -> All Programs -> eDoc LLC -> eDoc Organizer. The eDoc Organizer application will be displayed. From here, you can start organizing.
+Starting eDoc Organizer is very easy. You can either type in "eDoc Organizer" in your Windows' search bar, or navigate to Start menu -> All Programs -> eDoc Organizer Client. To launch the Manager, type in "eDoc Organizer Manager" and enter. You can also launch eDoc Organizer from the Manager application. The eDoc Organizer application will be displayed. 
 
 # Cloud
 
