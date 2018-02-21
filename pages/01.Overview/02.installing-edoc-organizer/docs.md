@@ -82,3 +82,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 5. Input your Cloud username and password, the same one you chose for step 2.
 
 ![](2018-02-20_20h36_36.png)
+
+6. Once the credentials are successful, it will launch the Cloud Client.
+
+![](2018-02-20_20h43_55.png)
