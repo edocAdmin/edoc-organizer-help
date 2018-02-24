@@ -10,6 +10,12 @@ visible: true
 
 **1. Can I create sub-labels like sub-folders in Windows?**
 
+No. eDoc Organizer labels are very different from folders in Windows and so having many levels of sub-labels may not be ideal for organization within eDoc Organizer. eDoc Organizer helps you map a single document to several labels. So for example, when you scan a bill for Patient A in 2011, rather than storing it in a particular folder and then later trying to find which folder you saved it in, you simply apply the Patient A, Bills, and 2011 labels to it in eDoc Organizer. When you need to find a document, you can start by searching for the broadest category, let’s say patient A, and narrow it down until a few documents are shown on your screen. Then you can typically just pick the right one based on the thumbnails shown.
+
+By intentionally preventing multi-level label organization we are trying to prevent our users from falling into the same age old failed paradigm of organizing document by having folders under folders under folders and a particular file with a specific name. There is only one level of labels in eDoc Organizer and they are all the same. Each label defines an attribute of a document and together they give you a complete picture of what a document actually is. So, there is no redundancy, yet you have better organization and every document can be easily traceable.
+
+For more details please refer to the [Organizing Documents](https://edocorganizer-help.azurewebsites.net/overview/organizing-documents) section.
+
 **2. When I create a new label within a label group, it is placed on the top of the list of labels in that group. Instead of using Moving Down option, can I automatically place it in alphabetical order?**
 
 **3. How do I selectively turn off OCR feature on certain documents?**
