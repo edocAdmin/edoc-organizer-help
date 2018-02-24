@@ -32,4 +32,6 @@ For more details please refer to the [Organizing Documents](https://edocorganize
 
 **9. Where does eDoc Organizer store all its data on my computer?**
 
+By default, On-Premise stores its database and document repository under **C:\ProgramData\eDoc LLC\eDoc Organizer\Documents**. You can change this option by opening eDoc Organizer Manager and choosing a different location. Cloud stores the documents on secure Microsoft Azure servers.
+
 **10. How does eDoc store documents? More specifically, is there a proprietary format such that I will always need eDoc to view, edit and transport my data store or will I be able to open my files in Windows Explorer or some other compatible file manager?**
