@@ -1,12 +1,11 @@
 ---
 title: 'Top 10 FAQs'
-media_order: '2018-02-28_14h37_08.png,2018-02-28_14h35_04.png'
+media_order: '2018-02-28_14h37_08.png,2018-02-28_14h35_04.png,2018-02-28_14h45_00.png'
 taxonomy:
     category:
         - docs
 visible: true
 ---
-
 
 **1. Can I create sub-labels like sub-folders in Windows?**
 
@@ -32,6 +31,10 @@ Yes. A Label Group can be either sorted Alphabetically or Manually. If you are u
 The Label group is reset to sort alphabetically until you use the up and down arrows again to switch it to manual sorting.
 
 **3. How do I selectively turn off OCR feature on certain documents?**
+
+You can turn off OCR by selecting the _**Other (Don't perform OCR)**_ option from the OCR language dropdown from the Scan Document Wizard dialog box.
+
+![](2018-02-28_14h45_00.png)
 
 **4. How do I know the file name of a document stored in eDoc Organizer? How do I know the size of the document stored under eDoc Organizer?**
 
