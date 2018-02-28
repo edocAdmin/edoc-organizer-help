@@ -1,13 +1,12 @@
 ---
 title: 'Top 10 FAQs'
-media_order: '2018-02-28_14h35_04.png,2018-02-28_14h37_08.png'
+media_order: '2018-02-28_14h37_08.png,2018-02-28_14h35_04.png'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-# Top 10 FAQs
 
 **1. Can I create sub-labels like sub-folders in Windows?**
 
