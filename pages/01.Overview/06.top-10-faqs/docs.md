@@ -1,5 +1,6 @@
 ---
 title: 'Top 10 FAQs'
+media_order: '2018-02-28_14h35_04.png,2018-02-28_14h37_08.png'
 taxonomy:
     category:
         - docs
@@ -21,8 +22,13 @@ For more details please refer to the [Organizing Documents](https://edocorganize
 Yes. A Label Group can be either sorted Alphabetically or Manually. If you are using the manual option, a new label is always created on the top once it is created.
 
 1. To reset it to alphabetical sorting, navigate to _**Tools > Configure Label Groups**_. The _**Configure Label Groups**_ dialog will be displayed.
+
+![](2018-02-28_14h35_04.png)
+
 2. Select the label group that you wish to reset.
 3. Click the _**Reset**_ button on the tool bar.
+
+![](2018-02-28_14h37_08.png)
 
 The Label group is reset to sort alphabetically until you use the up and down arrows again to switch it to manual sorting.
 
