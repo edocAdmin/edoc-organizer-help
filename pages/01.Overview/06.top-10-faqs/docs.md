@@ -18,6 +18,14 @@ For more details please refer to the [Organizing Documents](https://edocorganize
 
 **2. When I create a new label within a label group, it is placed on the top of the list of labels in that group. Instead of using Moving Down option, can I automatically place it in alphabetical order?**
 
+Yes. A Label Group can be either sorted Alphabetically or Manually. If you are using the manual option, a new label is always created on the top once it is created.
+
+1. To reset it to alphabetical sorting, navigate to _**Tools > Configure Label Groups**_. The _**Configure Label Groups**_ dialog will be displayed.
+2. Select the label group that you wish to reset.
+3. Click the _**Reset**_ button on the tool bar.
+
+The Label group is reset to sort alphabetically until you use the up and down arrows again to switch it to manual sorting.
+
 **3. How do I selectively turn off OCR feature on certain documents?**
 
 **4. How do I know the file name of a document stored in eDoc Organizer? How do I know the size of the document stored under eDoc Organizer?**
