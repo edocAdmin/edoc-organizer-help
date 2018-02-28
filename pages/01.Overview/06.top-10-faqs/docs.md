@@ -38,7 +38,15 @@ You can turn off OCR by selecting the _**Other (Don't perform OCR)**_ option fro
 
 **4. How do I know the file name of a document stored in eDoc Organizer? How do I know the size of the document stored under eDoc Organizer?**
 
+If you hover over a document thumbnail, a tooltip with the document name and size will be shown.
+
 **5. Why can’t I find documents in eDoc Organizer using the text within them?**
+
+There are a couple of things to check when you are not able to find the document by its content even after you performed the OCR.
+
+● The OCR recognized the word that you are searching the document by correctly. To do that, just open the document in eDoc Organizer and use the search function at the bottom of the PDF viewer. If the search finds the words you are looking for, the document should be searchable from the main screen.
+
+● Windows Search is installed and enabled on your machine.
 
 **6. I created a Label Group using the configure label groups dialog and I don’t see it in the labels panel on the right hand side of the screen.**
 
