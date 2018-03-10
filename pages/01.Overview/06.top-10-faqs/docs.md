@@ -59,3 +59,5 @@ There are a couple of things to check when you are not able to find the document
 By default, On-Premise stores its database and document repository under **C:\ProgramData\eDoc LLC\eDoc Organizer\Documents**. You can change this option by opening eDoc Organizer Manager and choosing a different location. Cloud stores the documents on secure Microsoft Azure servers.
 
 **10. How does eDoc store documents? More specifically, is there a proprietary format such that I will always need eDoc to view, edit and transport my data store or will I be able to open my files in Windows Explorer or some other compatible file manager?**
+
+eDoc Organizer does not store documents in a proprietary format. All scanned documents are stored as a standard format PDF or picture format that can be open with any PDF reader or picture editor. Imported files retain their format during the import process. So a picture imported as JPG remains as JPG when stored in eDoc Organizer document storage folder. You can open all documents stored in eDoc Organizer from Windows Explorer as well.
