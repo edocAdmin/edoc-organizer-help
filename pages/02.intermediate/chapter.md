@@ -20,6 +20,4 @@ _**eDoc Organizer**_ has a very simple, easy and intuitive interface. The import
 
 ● Labels Panel
 
-● Downloading eDoc Organizer Printer
-
-● Configuring General Options
+You will also learn how to set up your printer and configuring eDoc Organizer options.
