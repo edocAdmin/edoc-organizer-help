@@ -1,6 +1,9 @@
 ---
 title: 'Downloading eDoc Organizer Printer'
 media_order: '2018-03-24_13h56_50.png,2018-03-24_13h57_43.png,2018-03-24_14h00_30.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
