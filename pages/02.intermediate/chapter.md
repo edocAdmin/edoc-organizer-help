@@ -19,3 +19,7 @@ _**eDoc Organizer**_ has a very simple, easy and intuitive interface. The import
 ● Document Workspace
 
 ● Labels Panel
+
+● Downloading eDoc Organizer Printer
+
+● Configuring General Options
