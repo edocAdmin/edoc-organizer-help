@@ -1,5 +1,8 @@
 ---
 title: 'Labels Panel'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
