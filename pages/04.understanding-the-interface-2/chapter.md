@@ -1,5 +1,5 @@
 ---
-title: 'Understanding the Interface 2'
+title: 'Organizing Documents'
 taxonomy:
     category:
         - docs
