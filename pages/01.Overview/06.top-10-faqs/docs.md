@@ -50,9 +50,17 @@ There are a couple of things to check when you are not able to find the document
 
 **6. I created a Label Group using the configure label groups dialog and I don’t see it in the labels panel on the right hand side of the screen.**
 
+When you add a new label group it doesn’t automatically appear in the Labels panel on the right hand side of the main window until there is a label attached to the new label group.
+
+On the _**Labels Panel**_, click the _**Add**_ button to add a new label. The _**Create Label**_ dialog will be displayed.
+
 **7. On the left side where it shows Labels and Filters, they seem to be out of order and wondered how I move them?**
 
+The labels of the left hand side in the _**Filter Panel**_ are alphabetically sorted and vary in size depending upon how many documents have that label applied to them. The labels that appear in that list also change based what other searches  or filtering you have already done in the program. Think of it as a list of labels (along with their relevance) that are applied to the documents that are within your search (or all documents if you are not searching or filtering anything). It is just one more tool to help you narrow down your search and find the document you are looking for quickly.
+
 **8. Why do some toolbar buttons seem to be disabled and not available? I want to merge PDF files, but the button is not enabled?**
+
+Some tool bar buttons are disabled because their action can be initiated only when you select the required document. Specifically to merge pdf files, you need to select more than one document of unencrypted PDF formats.
 
 **9. Where does eDoc Organizer store all its data on my computer?**
 
