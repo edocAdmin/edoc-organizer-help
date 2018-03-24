@@ -26,3 +26,35 @@ The _**eDoc Organizer Application Options**_ dialog box will be displayed.
 3. You can select which date is applied to the documents while importing.  You can apply either the _**Current Date**_, the _**File Creation Date**_ or the _**File Modified Date**_.  Select the required date type from the drop down list.
 
 4. You can also specify the format of the date displayed under the document thumbnail in the _**Document Workspace**_ as either the _**Date and Time**_ or the _**Date Only**_ format.  Select the desired date format from the drop down list.
+
+# Advanced
+
+5. Checking the _**Perform Optical Character Recognition (OCR) on scanned documents**_ option allows you to convert the scanned documents into searchable PDF format.  By default, this option is checked. If you do not want to create searchable PDF files from your scanned documents, you can simply uncheck the option to disable it.
+
+6. Checking the _**Show eDoc Organizer icon in the notification area**_ box will display the _**eDoc Organizer**_ logo in the notification area. This allows you to close eDoc Organizer window without exiting the application. By default, this option is unchecked.
+
+7. You can set the quality of the thumbnails created when documents are added to the eDoc Organizer database. The available options are _**Normal Quality**_ and _**High Quality**_. Select the desired thumbnail quality from the drop down list.
+
+_**Note: Changing this option will not recreate or change the quality of the thumbnails that are already stored in the eDoc Organizer database.**_
+
+8. The _**Scanning Interface**_ option decides which language _**eDoc Organizer**_ uses to talk to your scanner. The available options are _**TWAIN**_ and _**WIA**_.
+
+* _**TWAIN**_ is the most common language for scanners. _**eDoc Organizer**_ works with scanners that follow the _**TWAIN**_ standard, which specifies how images are transferred from a scanner to a PC. This ensures wide compatibility, as most manufacturers ship TWAIN software with their scanners, or provide a free download.
+
+* The _**Windows Image Acquisition (WIA)**_ is a new standard developed by Microsoft for scanner drivers.
+
+* _**eDoc Organizer**_ supports the scan drivers of both of these standards. Select the desired scanning interface from the drop down list based on the type of the scanner that you are using.
+
+ 
+
+10.
+
+The Data Storage Location allows you to select the storage location on your computer for all the documents in eDoc Organizer.
+
+ 
+
+Click the Change button to change the default storage location to a new desired location.
+
+ 
+
+Note: Each time you change the location of the database or change the password, the Backup Reminder message box will be displayed asking you to backup the data to ensure that no data is lost if the action fails. 
