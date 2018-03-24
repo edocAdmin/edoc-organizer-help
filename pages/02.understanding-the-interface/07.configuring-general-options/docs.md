@@ -11,3 +11,5 @@ The _**Application Options**_ are the most basic and general options that can be
 ![](2018-03-24_13h56_50.png)
 
 The _**eDoc Organizer Application Options**_ dialog box will be displayed.
+
+![](2018-03-24_14h23_59.png)
