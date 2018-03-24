@@ -23,3 +23,5 @@ The _**eDoc Organizer Application Options**_ dialog box will be displayed.
 4. Click the _**Save File**_ button. The standard _**Save**_ dialog will be displayed, or will show in your browser bar where it is saved.
 
 5. Select the location where you want to save the _**eDoc Organizer Printer**_ and then click the _**Save**_ button. The file starts downloading. Once the download is completed, open the downloaded printer installation file. The _**Open File**_ dialog will be displayed.
+
+![](2018-03-24_14h11_08.png)
