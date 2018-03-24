@@ -1,5 +1,5 @@
 ---
-title: 'Menus System'
+title: 'Menu System'
 media_order: '2018-03-24_11h02_47.png,2018-03-24_11h07_46.png,2018-03-24_11h11_06.png'
 taxonomy:
     category:
