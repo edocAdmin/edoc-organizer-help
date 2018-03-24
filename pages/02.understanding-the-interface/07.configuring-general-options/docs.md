@@ -1,6 +1,9 @@
 ---
 title: 'Configuring General Options'
 media_order: '2018-03-24_13h56_50.png,2018-03-24_14h23_59.png,eDoc Organizer Screenshot 1.png'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
