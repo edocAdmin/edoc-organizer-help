@@ -16,7 +16,7 @@ The _**eDoc Organizer Application Options**_ dialog box will be displayed.
 
 # General Section
 
-2.Checking the _**Show document name under document thumbnail**_ option allows you to display the name of the document below its thumbnail in the _**Document Workspace**_.  By default, this option is checked. Your _**Document Workspace**_ will display the name of the document below its thumbnail. Unchecking this option will remove the names of the documents.
+2. Checking the _**Show document name under document thumbnail**_ option allows you to display the name of the document below its thumbnail in the _**Document Workspace**_.  By default, this option is checked. Your _**Document Workspace**_ will display the name of the document below its thumbnail. Unchecking this option will remove the names of the documents.
 
 ![](eDoc%20Organizer%20Screenshot%201.png)
 
