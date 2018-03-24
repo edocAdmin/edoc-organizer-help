@@ -45,16 +45,4 @@ _**Note: Changing this option will not recreate or change the quality of the thu
 
 * _**eDoc Organizer**_ supports the scan drivers of both of these standards. Select the desired scanning interface from the drop down list based on the type of the scanner that you are using.
 
- 
-
-10.
-
-The Data Storage Location allows you to select the storage location on your computer for all the documents in eDoc Organizer.
-
- 
-
-Click the Change button to change the default storage location to a new desired location.
-
- 
-
-Note: Each time you change the location of the database or change the password, the Backup Reminder message box will be displayed asking you to backup the data to ensure that no data is lost if the action fails. 
+9. Temporary files are used to help recover lost data if the program or computer is abnormally halted. By default, this box is checked and the file is saved normally and the temporary files are removed without causing issues to existing files.
