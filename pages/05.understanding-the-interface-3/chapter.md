@@ -1,5 +1,5 @@
 ---
-title: 'Understanding the Interface 3'
+title: 'Knowledge Base and Help Articles'
 taxonomy:
     category:
         - docs
