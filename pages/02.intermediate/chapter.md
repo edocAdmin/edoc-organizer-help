@@ -1,5 +1,5 @@
 ---
-title: Intermediate
+title: 'Understanding the Interface'
 taxonomy:
     category:
         - docs
@@ -7,8 +7,6 @@ child_type: docs
 ---
 
 ### Chapter 2
-
-# Understanding the Interface
 
 _**eDoc Organizer**_ has a very simple, easy and intuitive interface. The important components of eDoc Organizer’s interface are:
 
