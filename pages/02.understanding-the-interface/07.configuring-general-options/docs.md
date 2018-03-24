@@ -20,6 +20,6 @@ The _**eDoc Organizer Application Options**_ dialog box will be displayed.
 
 ![](eDoc%20Organizer%20Screenshot%201.png)
 
-3.You can select which date is applied to the documents while importing.  You can apply either the _**Current Date**_, the _**File Creation Date**_ or the _**File Modified Date**_.  Select the required date type from the drop down list.
+3. You can select which date is applied to the documents while importing.  You can apply either the _**Current Date**_, the _**File Creation Date**_ or the _**File Modified Date**_.  Select the required date type from the drop down list.
 
 4. You can also specify the format of the date displayed under the document thumbnail in the _**Document Workspace**_ as either the _**Date and Time**_ or the _**Date Only**_ format.  Select the desired date format from the drop down list.
