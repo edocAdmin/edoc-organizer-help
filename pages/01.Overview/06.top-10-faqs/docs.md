@@ -1,6 +1,6 @@
 ---
 title: 'Top 10 FAQs'
-media_order: '2018-02-28_14h37_08.png,2018-02-28_14h35_04.png,2018-02-28_14h45_00.png'
+media_order: '2018-02-28_14h37_08.png,2018-02-28_14h35_04.png,2018-02-28_14h45_00.png,2018-03-24_10h16_17.png,2018-03-24_10h18_37.png'
 taxonomy:
     category:
         - docs
@@ -52,7 +52,13 @@ There are a couple of things to check when you are not able to find the document
 
 When you add a new label group it doesn’t automatically appear in the Labels panel on the right hand side of the main window until there is a label attached to the new label group.
 
-On the _**Labels Panel**_, click the _**Add**_ button to add a new label. The _**Create Label**_ dialog will be displayed.
+On the _**Labels Panel**_, click the _**Add**_ button to add a new label. 
+
+![](2018-03-24_10h16_17.png)
+
+The _**Create Label**_ dialog will be displayed.
+
+![](2018-03-24_10h18_37.png)
 
 **7. On the left side where it shows Labels and Filters, they seem to be out of order and wondered how I move them?**
 
