@@ -1,5 +1,5 @@
 ---
-title: 'Top 10 FAQs'
+title: FAQs
 media_order: '2018-02-28_14h37_08.png,2018-02-28_14h35_04.png,2018-02-28_14h45_00.png,2018-03-24_10h16_17.png,2018-03-24_10h18_37.png'
 taxonomy:
     category:
@@ -75,3 +75,17 @@ By default, On-Premise stores its database and document repository under **C:\Pr
 **10. How does eDoc store documents? More specifically, is there a proprietary format such that I will always need eDoc to view, edit and transport my data store or will I be able to open my files in Windows Explorer or some other compatible file manager?**
 
 eDoc Organizer does not store documents in a proprietary format. All scanned documents are stored as a standard format PDF or picture format that can be open with any PDF reader or picture editor. Imported files retain their format during the import process. So a picture imported as JPG remains as JPG when stored in eDoc Organizer document storage folder. You can open all documents stored in eDoc Organizer from Windows Explorer as well.
+
+**11. I created a new Label Group but I don’t see it in the list of Labels.**
+
+Label groups don't show up in the list of labels, until you create at least one label under that label group. Try creating a new label associated with the new label group. If you already created a label under that label group, make sure to scroll down the list as Label Groups are shown alphabetically in the Labels panel.
+
+**12. Which scanners can I use with eDoc Organizer? Can I use my own scanner?**
+
+Yes, you can use any TWAIN or WIA compliant scanner with eDoc Organizer. You can switch between the TWAIN and WIA scanning interfaces in the Application Options dialog of eDoc Organizer (Tools > Options menu item).
+
+**13. Is eDoc Organizer compatible with Fujitsu ScanSnap devices?**
+
+eDoc Organizer is not directly compatible with Fujitsu ScanSnap scanner series devices. Fujitsu has decided not to provide TWAIN drivers for these scanners which would allow eDoc Organizer to communicate with it directly ([http://scansnapcommunity.com/tips-tricks/162-why-doesnt-scansnap-come-with-twain-drivers/](http://scansnapcommunity.com/tips-tricks/162-why-doesnt-scansnap-come-with-twain-drivers/)).
+
+The best way to use ScanSnap devices with eDoc Organizer is to use the Folder Monitor Feature of eDoc Organizer. ScanSnap devices can be configured to scan directly to a specified folder on your computer. eDoc Organizer, via the Folder Monitor feature, can be configured to watch that particular folder and automatically import any files that are added to that folder. Please refer to [http://www.edocorganizer.com/manual/FolderMonitors.html](http://www.edocorganizer.com/manual/FolderMonitors.html) section of the help manual for instructions on how to configure Folder Monitors in eDoc Organizer.
