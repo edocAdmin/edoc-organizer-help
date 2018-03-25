@@ -134,6 +134,7 @@ Boolean operators allow terms to be combined through logic operators. eDoc Organ
 _Note: Boolean operators must be ALL CAPS_
 
 **OR**
+
 The OR operator is the default conjunction operator. This means that if there is no Boolean operator between two terms, the OR operator is used. The OR operator links two terms and finds a matching document if either of the terms exist in a document.
 
 To search for documents that contain either "Bank Statement" or just "Statement" use the query:
@@ -145,6 +146,7 @@ or
 " Bank Statement " OR Statement
 
 **AND**
+
 The AND operator matches documents where both terms exist anywhere in the text of a single document.
 
 To search for documents that contain "Bank Statement" and "Bank of America" use the query:
