@@ -13,7 +13,7 @@ No. eDoc Organizer labels are very different from folders in Windows and so havi
 
 By intentionally preventing multi-level label organization, we are trying to prevent our users from falling into the same age old failed paradigm of organizing document by having folders under folders under folders and a particular file with a specific name. There is only one level of labels in eDoc Organizer and they are all the same. Each label defines an attribute of a document and together they give you a complete picture of what a document actually is. So, there is no redundancy, yet you have better organization and every document can be easily traceable.
 
-For more details please refer to the [Organizing Documents](https://edocorganizer-help.azurewebsites.net/overview/organizing-documents) section.
+For more details please refer to the [Organizing Documents](https://help.edocorganizer.com/overview/organizing-documents) section.
 
 **2. When I create a new label within a label group, it is placed on the top of the list of labels in that group. Instead of using Moving Down option, can I automatically place it in alphabetical order?**
 
