@@ -1,6 +1,6 @@
 ---
 title: 'How To'
-media_order: 'ss1.png,ss2.png,ss3.png,ss4.png,ss5.png,ss6.png,ss7.png,ss8.png,ss09.png,ss11.png,ss12.png,ss13.png,ss10.png'
+media_order: 'ss1.png,ss2.png,ss3.png,ss4.png,ss5.png,ss6.png,ss7.png,ss8.png,ss09.png,ss11.png,ss12.png,ss13.png,ss10.png,ss14.png,ss15.png,ss16.png'
 taxonomy:
     category:
         - docs
@@ -178,3 +178,35 @@ _If your scanner has an ADF the option to Use document feeder (ADF) will be avai
 7. Repeat step 6 for the rest of the pages of your document.
 
 8. Once you have scanned all the pages of your document, press the “Save and Finish” button to save all the pages in a single PDF file within eDoc Organizer.
+
+# Resolve Common Scanner/Scanning Issues
+
+_"My scanner is not shown in the list of scanners in eDoc Organizer.”_
+
+_“I receive an error when I try to scan using eDoc Organizer.”_
+
+_“I can scan using other programs but not eDoc Organizer”_
+
+**The first thing we suggest is to download and reinstall the latest scanner drivers for your device from the manufacturer’s website. Even if you have the scanner drivers installed, it is recommended that you uninstalling and reinstalling it. In a majority of cases, doing this one thing fixes most scanning issues.**
+
+If the problem continues, try these other suggestions for further troubleshooting of the issue:
+
+1. Make sure your scanner is connected to your computer and that you have the proper scan drivers installed. eDoc Organizer is compatible with both TWAIN and WIA type of scan drivers.
+
+_Ensure that your scanner manufacturer provides at least one of these type of scan driver for your device. Some devices like Fujitsu ScanSnap line of products do not provide scan drivers that allow other applications to communicate to them. In those cases you will have to use the Folder Monitoring feature to import scanned documents into eDoc Organizer._
+
+2. Check whether you can scan using the software that comes with your device or via windows directly. This will help narrow down whether the problem is with your scanner driver or with eDoc Organizer.
+
+3. Make sure you are using the correct driver for your device. If you are using the TWAIN interface, which is the default setting in eDoc Organizer, eDoc Organizer will typically show you two similar devices in the dropdown. Make sure you select the one without WIA in the name.
+
+![](ss14.png)
+
+4. Enable the “Use the scanner driver” option in eDoc Organizer. This delegates the scanning responsibility to the device driver and only passes the final captured image to eDoc Organizer.
+
+![](ss15.png)
+
+5. Try switching to the WIA interface instead of TWAIN to perform your scanning. You can switch between the two interfaces by going to Tools > Options menu item in eDoc Organizer and opening the Applications Options dialog.
+
+![](ss16.png)
+
+Following these steps helps resolve eDoc Organizer scanning issues for most of our customers. If your problems are not resolved by following these steps, please contact our support team at support@edocllc.com and they would be happy to assist in helping you troubleshoot the issue.
