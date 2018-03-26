@@ -1,6 +1,6 @@
 ---
 title: 'How To'
-media_order: 'ss1.png,ss2.png,ss3.png'
+media_order: 'ss1.png,ss2.png,ss3.png,ss4.png,ss5.png,ss6.png,ss7.png,ss8.png'
 taxonomy:
     category:
         - docs
@@ -95,3 +95,40 @@ To set up folder monitoring simply open up your eDoc Organizer and go to the _**
 Folders are monitored for new files only when eDoc Organizer is running. Any files added when eDoc Organizer is closed are imported the next time the program is started.
 
 To edit folder monitors simply go back to _**Tool->Configure Folder Monitors**_ choose the folder that you wish to edit from the list of folders you are having eDoc Organizer monitor, and select _**Edit**_. Make the changes you wish and then be sure to _**save**_ your work. To delete a folder monitor you would go to the same location but chose the _**delete**_ option. You will be asked to confirm that you want to delete the folder monitor.
+
+# How to turn on automatic label suggestions
+
+Turning on Automatic Label Suggestions for a particular label  
+Let’s say that you wanted to apply the label “My Company” to all documents that contained the name of your company. We will use Contoso as the company name in this example.
+
+Click on the New Label button to create a new Label.
+
+_Note: If you already have a label for “My Company” you can just edit it to enable ALS as well._
+
+![](ss4.png)
+
+In the Label dialog fill in the information shown above and create the label. Note that the “Suggest this label for documents” check box is checked and the word Contoso is added below it as a word to be searched in the document’s content for this label to be suggested.
+
+Now when a document with the word contoso is imported into eDoc Organizer, eDoc Organizer automatically suggests “My Company” Label as a possible candidate to be applied to the document.
+
+![](ss5.png)
+
+The Invoice Label is automatically suggested above as well because the word Invoice is present in the document as well. Here is what the Invoice label configuration looks like:
+
+![](ss6.png)
+
+Now lets say that your company recently changed its name to Contoso and it used to be called Acme before that. In that case, you want to ensure that any old documents you import into eDoc organizer also get the “My Company” Label. But the old documents don’t have the word Contoso in them, they have the word Acme in them. That is not a problem. You can change the “My Company” Label to be suggested for both of those words as shown below.
+
+![](ss7.png)
+
+Now when we import an old document with Acme in the text the “My Company” Label is suggested as well.
+
+![](ss8.png)
+
+**Recommendations to get the most out of Automatic Label Suggestions**
+
+1. Use precise rather than generic words as triggers for Automatic Label Suggestions. For example, it might be better to use your bank’s actual name rather than the generic term bank to apply the label to all your bank statements. This will ensure that the label is not wrongly suggested in a lot of other documents that might have the word bank in them but are not your banks statement.
+
+2. It is better to provide more than one word for ALS. In cases where the document is scanned, ALS relies on accurate Optical Character Recognition (OCR) to find the words in the documents. The more unique words you provide as ALS triggers, the more chances you have of finding a match.
+
+3. Automatic Label Suggestions is a convenience feature and is not guaranteed to have an 100% accurate detection rate. Inaccurate OCR or a word that you think should be in the document, not being there can cause inaccurate ALS suggestions. It is always advisable to review the labels suggested by eDoc Organizer and adjust them before applying them to the document.
