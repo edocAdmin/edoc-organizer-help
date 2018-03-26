@@ -1,6 +1,6 @@
 ---
 title: 'How To'
-media_order: 'ss1.png,ss2.png,ss3.png,ss4.png,ss5.png,ss6.png,ss7.png,ss8.png'
+media_order: 'ss1.png,ss2.png,ss3.png,ss4.png,ss5.png,ss6.png,ss7.png,ss8.png,ss09.png,ss11.png,ss12.png,ss13.png,ss10.png'
 taxonomy:
     category:
         - docs
@@ -132,3 +132,49 @@ Now when we import an old document with Acme in the text the “My Company” La
 2. It is better to provide more than one word for ALS. In cases where the document is scanned, ALS relies on accurate Optical Character Recognition (OCR) to find the words in the documents. The more unique words you provide as ALS triggers, the more chances you have of finding a match.
 
 3. Automatic Label Suggestions is a convenience feature and is not guaranteed to have an 100% accurate detection rate. Inaccurate OCR or a word that you think should be in the document, not being there can cause inaccurate ALS suggestions. It is always advisable to review the labels suggested by eDoc Organizer and adjust them before applying them to the document.
+
+# Scan a multi-page document using eDoc Organizer
+
+The best way to scan a multi-page document depends upon the capabilities of your scanner. If your scanner has an Automatic Document Feeder (ADF) then using it will allow you to scan all the pages of a document at the same time. But even if your scanner doesn’t have an ADF, you can still scan the pages of your document one-at-a-time and save them as a single document in eDoc Organizer.
+
+**Scanning a multi-page document with Automatic Document Feeder (ADF)**
+
+1. Open eDoc Organizer.
+
+2. Click on the Scan button in the upper left hand corner of the main window.
+
+![](ss09.png)
+
+3. This will open the scan document wizard.
+
+![](ss10.png)
+
+_If your scanner has an ADF the option to Use document feeder (ADF) will be available in this window. If this option is unavailable then eDoc Organizer is unable to detect that your scanner has ADF. In this situation please use the Scan a multi-page document without ADF procedure below to scan your document._
+
+4. Place the pages of your document in the feeder.
+
+5. Enable the checkbox beside Use document feeder (ADF) option and click on the Scan button.
+
+6. eDoc Organizer will scan all the pages in the ADF one at a time. When the scanning is complete press the “Save and Finish” button to save all the pages in a single PDF file within eDoc Organizer.
+
+**Scanning a multi-page document without Automatic Document Feeder (ADF)**
+
+1. Open eDoc Organizer.
+
+2. Click on the Scan button in the upper left hand corner of the main window.
+
+![](ss12.png)
+
+3. This will open the scan document wizard.
+
+4. Place the first page of the document in your scanner and click the Scan button.
+
+5. When eDoc Organizer finishes scanning the first page of your document, the Scan button will be replaced by three new buttons: Append, Scan and New, and Scan and Finish.
+
+![](ss13.png)
+
+6. Place the next page of your document and click the Append button.
+
+7. Repeat step 6 for the rest of the pages of your document.
+
+8. Once you have scanned all the pages of your document, press the “Save and Finish” button to save all the pages in a single PDF file within eDoc Organizer.
