@@ -1,6 +1,6 @@
 ---
 title: 'How To'
-media_order: '2018-03-24_11h02_47.png,2018-03-24_11h07_46.png,2018-03-24_11h11_06.png'
+media_order: 'ss1.png,ss2.png,ss3.png'
 taxonomy:
     category:
         - docs
@@ -71,3 +71,19 @@ eDoc Organizer will work with most email clients like Microsoft Outlook, Outlook
 You can find Google’s instructions on enabling POP access and setting up the client of your choice at [http://mail.google.com/support/bin/answer.py?answer=13273](http://mail.google.com/support/bin/answer.py?answer=13273).
 
 Just because you setup this new way of accessing your Gmail account, doesn’t mean you have to use this method for all your day to day correspondence. You can continue access Gmail via the web, this method is only needed to enable eDoc Organizer to send documents via your Gmail account.
+
+# How to Scan in Business Cards using eDoc Organizer
+
+What appears on screen after you scan the business card is partly dependent on the  scanner you are using and partly dependent on the settings you are using within eDoc Organizer. The first thing to try is to see if your scanners driver has an option to correctly scan a document that is the size of a typical business card (3.5 by 2 inches). If it does, the option would be automatically listed under the document size drop-down in the scan document wizard.
+
+![](ss1.png)
+
+If this option is not available, we recommend that you scan using your scanners driver. You can do that by enabling the option as shown below.
+
+![](ss2.png)
+
+This will open the application that your scanner manufacturer ships with your device and it might be able to automatically detect the size of the business card without you have to specify the size for the document.
+
+Finally if all fails you can manually reset the size of the scanned page to the correct size, by using the Manual or Automatic crop buttons in the Scan Document Wizard.
+
+![](ss3.png)
