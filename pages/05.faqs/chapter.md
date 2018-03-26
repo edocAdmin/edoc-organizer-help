@@ -1,5 +1,5 @@
 ---
-title: 'Knowledge Base and Help Articles'
+title: FAQs
 taxonomy:
     category:
         - docs
