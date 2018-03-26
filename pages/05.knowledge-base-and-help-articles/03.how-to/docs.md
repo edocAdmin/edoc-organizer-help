@@ -1,6 +1,6 @@
 ---
 title: 'How To'
-media_order: 'ss1.png,ss2.png,ss3.png,ss4.png,ss5.png,ss6.png,ss7.png,ss8.png,ss09.png,ss11.png,ss12.png,ss13.png,ss10.png,ss14.png,ss15.png,ss16.png'
+media_order: 'ss1.png,ss2.png,ss3.png,ss4.png,ss5.png,ss6.png,ss7.png,ss8.png,ss09.png,ss11.png,ss12.png,ss13.png,ss10.png,ss14.png,ss15.png,ss16.png,ss17.jpg'
 taxonomy:
     category:
         - docs
@@ -209,4 +209,37 @@ _Ensure that your scanner manufacturer provides at least one of these type of sc
 
 ![](ss16.png)
 
-Following these steps helps resolve eDoc Organizer scanning issues for most of our customers. If your problems are not resolved by following these steps, please contact our support team at support@edocllc.com and they would be happy to assist in helping you troubleshoot the issue.
+Following these steps helps resolve eDoc Organizer scanning issues for most of our customers. If your problems are not resolved by following these steps, please contact our support team at [mailto:support@edocllc.com](support@edocllc.com) and they would be happy to assist in helping you troubleshoot the issue.
+
+# Import emails into eDoc Organizer
+
+There are various different ways to import emails into eDoc Organizer. 
+
+**eDoc Organizer Printer**
+
+The easiest way to import your emails into eDoc Organizer is to use the eDoc Organizer printer. When an email is printed to the eDoc Organizer Printer, it is automatically converted to PDF and imported into the program.
+
+1. To print through eDoc Organizer Printer, open the email that you wish to print.
+2. Click the Print option in windows live mail.
+3. The Print dialog will be displayed.
+4. Select the printer as eDoc Organizer Printer from the drop down list.
+5. Click the Print button. Note: If eDoc Organizer is not running, it will be opened after the printing is complete.
+6. The Document Properties dialog will be displayed.
+7. Make the necessary changes and settings for the document and then click the Apply button.
+8. Now the document is converted into PDF and imported into the program.
+
+![](ss17.jpg)
+
+**Screen Capture**
+
+You can capture images of your email to store in eDoc Organizer.
+Open the email that you want to take a screen capture of on your computer.
+Navigate to File -> Screen Capture Or Click the Screen Capture option in the Tool Bar.
+The eDoc Organizer window will be minimized and the screen capture tool is activated with the handlers for selecting the portion of the email for capturing. Press down the left mouse button and drag to select the area of your email that you want to capture. Once the email is captured, it will be displayed in the Screen Capture Dialog box.
+To capture more of the email, scroll down in the email and click the Capture Screenshot button in the Right Panel.
+To save your email in eDoc Organizer repository, click the Save & Close button, the Document Properties dialog will be displayed.
+Make the appropriate changes and Click the Apply button at the end to apply the changes made to the captured email and save it.
+
+**Drag & Drop (Microsoft Outlook)**
+
+If you use Microsoft Office Outlook program as your email program, you can directly drag and drop the email from Outlook into eDoc Organizer. This will store the email along with any attachments into eDoc Organizer in MSG format.
