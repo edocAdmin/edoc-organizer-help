@@ -87,3 +87,11 @@ This will open the application that your scanner manufacturer ships with your de
 Finally if all fails you can manually reset the size of the scanned page to the correct size, by using the Manual or Automatic crop buttons in the Scan Document Wizard.
 
 ![](ss3.png)
+
+# How to set up eDoc Organizer Folder Monitoring
+
+To set up folder monitoring simply open up your eDoc Organizer and go to the _**Tool**_ bar. Under _**Tool**_ drop down to _**configure folder monitors**_, where you will click on _**add**_. This will open a window where you can choose the folder that will be monitored, add labels that will be automatically added to the documents and designate where the documents will be moved to outside of eDoc Organizer. To choose to delete the file from the folder select _**delete source files**_. Be sure to click the _**Save**_ button when you have selected the settings you prefer.
+
+Folders are monitored for new files only when eDoc Organizer is running. Any files added when eDoc Organizer is closed are imported the next time the program is started.
+
+To edit folder monitors simply go back to _**Tool->Configure Folder Monitors**_ choose the folder that you wish to edit from the list of folders you are having eDoc Organizer monitor, and select _**Edit**_. Make the changes you wish and then be sure to _**save**_ your work. To delete a folder monitor you would go to the same location but chose the _**delete**_ option. You will be asked to confirm that you want to delete the folder monitor.
