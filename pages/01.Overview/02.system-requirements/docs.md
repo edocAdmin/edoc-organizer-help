@@ -6,6 +6,8 @@ taxonomy:
 visible: true
 ---
 
+[ui-tabs position="top-left" active="0" theme="lite"]
+[ui-tab title="First Tab"]
 # **On-Premise Edition**
 
 | **System**  | **Requirements** |
@@ -17,8 +19,8 @@ visible: true
 | **Hard Drive**  | 10 GB and above  |
 | **Other Software**  | Microsoft .NET Framework 4.6.1 (Installed automatically by the installer) |
 | ** Additional Requirements**  | Internet Connection, Javascript and Cookies Enabled in the Browser |
-
-
+[/ui-tab]
+[ui-tab title="First Tab"]
 # **Cloud Edition: Desktop Client**
 
 **Note: You can access Cloud Edition via any internet browser, such as Safari, Firefox, Chrome, etc. The requirements are for the Windows Cloud Desktop.**
@@ -32,3 +34,4 @@ visible: true
 | **Hard Drive**  | 10 GB and above  |
 | **Other Software**  | Microsoft .NET Framework 4.6.1 (Installed automatically by the installer) |
 | ** Additional Requirements**  | Internet Connection, Javascript and Cookies Enabled in the Browser |
+[/ui-tab][/ui-tabs]
