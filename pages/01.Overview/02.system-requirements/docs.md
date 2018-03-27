@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-[ui-tabs position="top-left" active="0" theme="badges"]
+[ui-tabs position="top-left" active="0" theme="default"]
 [ui-tab title="On-Premise Edition"]
 # **On-Premise Edition**
 
