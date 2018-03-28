@@ -16,8 +16,6 @@ You can download and install eDoc Organizer from our web site home page. Install
 **Note: Before installing eDoc Organizer, please refer to the [System Requirements](https://help.edocorganizer.com/overview/system-requirements) section.**
  
 To download the On-Premise edition of eDoc Organizer, simply follow the steps given below.
-
-# On-Premise
  
 1. Navigate to the eDoc Oganizer On-Premise home page by entering the URL, [http://on-premise.edocorganizer.com/](http://on-premise.edocorganizer.com/) on your browser's address bar.
 
@@ -64,8 +62,6 @@ The eDoc Organizer On-Premise Home page will be displayed.
 ![](2018-02-19_21h15_23.png)
 [/ui-tab]
 [ui-tab title="Cloud Edition"]
-# Cloud
-
 **Note: Before you purchase eDoc Organizer, you can download a full trial free for 15 days.**
  
 You can download and install eDoc Organizer from our web site home page. Installing eDoc Organizer is very easy. If you have any problems in the installation process, please contact our [technical support team](mailto:support@edocllc.com).
