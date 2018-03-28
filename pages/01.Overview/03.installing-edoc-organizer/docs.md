@@ -7,13 +7,15 @@ taxonomy:
 visible: true
 ---
 
+[ui-tabs position="top-left" active="0" theme="default"]
+[ui-tab title="On-Premise Edition"]
 **Note: Before you purchase eDoc Organizer, you can download a full trial free for 15 days.**
  
 You can download and install eDoc Organizer from our web site home page. Installing eDoc Organizer is very easy. If you have any problems in the installation process, please contact our [technical support team](mailto:support@edocllc.com).
  
 **Note: Before installing eDoc Organizer, please refer to the [System Requirements](https://help.edocorganizer.com/overview/system-requirements) section.**
  
-To download either edition of eDoc Organizer, simply follow the steps given below.
+To download the On-Premise edition of eDoc Organizer, simply follow the steps given below.
 
 # On-Premise
  
@@ -60,8 +62,16 @@ The eDoc Organizer On-Premise Home page will be displayed.
 10. eDoc Organizer On-Premise will display. **Note: It will show as a trial version until it has been activated. The date will display how long is left in the trial.**
 
 ![](2018-02-19_21h15_23.png)
-
+[/ui-tab]
 # Cloud
+
+**Note: Before you purchase eDoc Organizer, you can download a full trial free for 15 days.**
+ 
+You can download and install eDoc Organizer from our web site home page. Installing eDoc Organizer is very easy. If you have any problems in the installation process, please contact our [technical support team](mailto:support@edocllc.com).
+ 
+**Note: Before installing eDoc Organizer, please refer to the [System Requirements](https://help.edocorganizer.com/overview/system-requirements) section.**
+ 
+To download the Cloud edition of eDoc Organizer, simply follow the steps given below.
 
 1. Navigate to the eDoc Oganizer Cloud home page by entering the URL, [http://cloud.edocorganizer.com/](http://cloud.edocorganizer.com/) on your browser's address bar, and click on "Sign Up" or "Start your free 15 day trial today" at the bottom. 
 
