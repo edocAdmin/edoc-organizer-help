@@ -7,7 +7,7 @@ child_type: docs
 ---
 
 [ui-tabs position="top-left" active="0" theme="default"]
-[ui-tab title="General and Technical FAQs about eDoc Organizer"]
+[ui-tab title="General FAQs about eDoc Organizer"]
 **1. Can I create sub-labels like sub-folders in Windows?**
 
 No. eDoc Organizer labels are very different from folders in Windows and so having many levels of sub-labels would not be ideal for organization within eDoc Organizer. eDoc Organizer helps you map a single document to several labels. So for example, when you scan a bill for Patient A in 2011, rather than storing it in a particular folder and then later trying to find which folder you saved it in, you simply apply the **Patient A**, **Bills**, and **2011** labels to it in eDoc Organizer. When you need to find a document, you can start by searching for the broadest category, let’s say **patient A**, and narrow it down until a few documents are shown on your screen. Then you can typically just pick the right one based on the thumbnails shown.
