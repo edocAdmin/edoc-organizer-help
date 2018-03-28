@@ -63,6 +63,7 @@ The eDoc Organizer On-Premise Home page will be displayed.
 
 ![](2018-02-19_21h15_23.png)
 [/ui-tab]
+[ui-tab title="Cloud Edition"]
 # Cloud
 
 **Note: Before you purchase eDoc Organizer, you can download a full trial free for 15 days.**
