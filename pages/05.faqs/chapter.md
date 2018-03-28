@@ -95,7 +95,7 @@ The best way to use ScanSnap devices with eDoc Organizer is to use the Folder Mo
 [ui-tab title="On-Premise Edition FAQs"]
 [/ui-tab]
 [ui-tab title="Cloud Edition FAQs"]
-# How can I get an invoice / payment receipt for my eDoc Organizer Cloud Service subscription?
+**How can I get an invoice / payment receipt for my eDoc Organizer Cloud Service subscription?**
 
 eDoc Organizer Cloud service is a monthly subscription document management service. Each month your credit card is charged automatically. You can print out the payment receipts for these charges directly from the eDoc Organizer Cloud service website. After you log into your eDoc Organizer Cloud service account at [https://cloud.edocorganizer.com/](https://cloud.edocorganizer.com/) follow the steps below to locate and print out the payment receipts.
 
@@ -107,7 +107,7 @@ eDoc Organizer Cloud service is a monthly subscription document management servi
 
 3. This will show you a payment receipt for the selected transaction. This page can be printed for your records or to be submitted to your accounting department.
 
-# How do I make changes to my eDoc Organizer Cloud sevice plan?
+**How do I make changes to my eDoc Organizer Cloud sevice plan?**
 
 You can change your subscription plan that defines the amount or space or number of users in your account at anytime. 
 
@@ -121,7 +121,7 @@ After you log into your eDoc Organizer Cloud service account at [https://cloud.e
 
 4. Copy this security code in the Change Account Plan form, change the plan according to your new needs, read and agree to the prorated charge and then click the 'Change Plan' button to change your subscription plan.
 
-# How can I change the billing information (Credit Card) for my eDoc Organizer Cloud Service Account?
+**How can I change the billing information (Credit Card) for my eDoc Organizer Cloud Service Account?**
 
 If your credit card expires or you cancel it, be sure to update your account billing information by logging into the eDoc Organizer Cloud to avoid disruption of service. 
 
@@ -133,7 +133,7 @@ After you log into your eDoc Organizer Cloud service account at [https://cloud.e
 
 _If your account is past due, your new credit card will be billed automatically for the past due charges and your account will be automatically activated._
 
-# How do I Cancel eDoc Organizer Cloud Service Account?
+**How do I Cancel eDoc Organizer Cloud Service Account?**
 
 After you log into your eDoc Organizer cloud service account at [https://cloud.edocorganizer.com/ ](https://cloud.edocorganizer.com/)follow the steps below to cancel your account.
 
@@ -147,7 +147,7 @@ After you log into your eDoc Organizer cloud service account at [https://cloud.e
 
 5. You will receive a final confirmation email stating that your account is closed. 
 
-# How can I migrate my eDoc Organizer Home Edition data to the Cloud Edition?
+**How can I migrate my eDoc Organizer Home Edition data to the Cloud Edition?**
 
 1. Sign up for an eDoc Organizer Cloud Edition account at [https://cloud.edocorganizer.com/ ](https://cloud.edocorganizer.com/).
 
@@ -161,7 +161,7 @@ _Note: To ensure successful transfer please ensure that you have signed up for t
 
 _Note: Depending upon your internet connection upload speed it might take a few hours to upload your documents. The upload should not be interrupted as you might end up with duplicate data if you run the utility more than once.  If there is an error during the upload, it is recommended that you delete the data in your cloud account before re-running the utility._
 
-# eDoc Organizer Advanced Search Syntax
+**eDoc Organizer Advanced Search Syntax**
 
 eDoc Organizer search query is broken up into terms and operators.
 
