@@ -96,3 +96,4 @@ To download the Cloud edition of eDoc Organizer, simply follow the steps given b
 6. Once the credentials are successful, it will launch the Cloud Client.
 
 ![](2018-02-20_20h43_55.png)
+[/ui-tab][/ui-tabs]
