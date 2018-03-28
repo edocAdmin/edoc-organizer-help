@@ -7,6 +7,8 @@ taxonomy:
 visible: true
 ---
 
+[ui-tabs position="top-left" active="0" theme="default"]
+[ui-tab title="General and Technical FAQs about eDoc Organizer"]
 **1. Can I create sub-labels like sub-folders in Windows?**
 
 No. eDoc Organizer labels are very different from folders in Windows and so having many levels of sub-labels would not be ideal for organization within eDoc Organizer. eDoc Organizer helps you map a single document to several labels. So for example, when you scan a bill for Patient A in 2011, rather than storing it in a particular folder and then later trying to find which folder you saved it in, you simply apply the **Patient A**, **Bills**, and **2011** labels to it in eDoc Organizer. When you need to find a document, you can start by searching for the broadest category, let’s say **patient A**, and narrow it down until a few documents are shown on your screen. Then you can typically just pick the right one based on the thumbnails shown.
@@ -89,3 +91,8 @@ Yes, you can use any TWAIN or WIA compliant scanner with eDoc Organizer. You can
 eDoc Organizer is not directly compatible with Fujitsu ScanSnap scanner series devices. Fujitsu has decided not to provide TWAIN drivers for these scanners which would allow eDoc Organizer to communicate with it directly ([http://scansnapcommunity.com/tips-tricks/162-why-doesnt-scansnap-come-with-twain-drivers/](http://scansnapcommunity.com/tips-tricks/162-why-doesnt-scansnap-come-with-twain-drivers/)).
 
 The best way to use ScanSnap devices with eDoc Organizer is to use the Folder Monitor Feature of eDoc Organizer. ScanSnap devices can be configured to scan directly to a specified folder on your computer. eDoc Organizer, via the Folder Monitor feature, can be configured to watch that particular folder and automatically import any files that are added to that folder. Please refer to [http://www.edocorganizer.com/manual/FolderMonitors.html](http://www.edocorganizer.com/manual/FolderMonitors.html) section of the help manual for instructions on how to configure Folder Monitors in eDoc Organizer.
+[/ui-tab]
+[ui-tab title="On-Premise Edition FAQs"]
+[/ui-tab]
+[ui-tab title="Cloud Edition FAQs"]
+[/ui-tab][/ui-tabs]
