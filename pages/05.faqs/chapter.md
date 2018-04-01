@@ -35,19 +35,19 @@ You can turn off OCR by selecting the _**Other (Don't perform OCR)**_ option fro
 
 ![](2018-02-28_14h45_00.png)[/ui-accordion-item][/ui-accordion]
 
-**4. How do I know the file name of a document stored in eDoc Organizer? How do I know the size of the document stored under eDoc Organizer?**
+[ui-accordion independent=true open=none][ui-accordion-item title="How do I know the file name of a document stored in eDoc Organizer? How do I know the size of the document stored under eDoc Organizer?"]
 
-If you hover over a document thumbnail, a tooltip with the document name and size will be shown.
+If you hover over a document thumbnail, a tooltip with the document name and size will be shown.[/ui-accordion-item][/ui-accordion]
 
-**5. Why can’t I find documents in eDoc Organizer using the text within them?**
+[ui-accordion independent=true open=none][ui-accordion-item title="Why can’t I find documents in eDoc Organizer using the text within them?"]
 
 There are a couple of things to check when you are not able to find the document by its content even after you performed the OCR.
 
 ● The OCR recognized the word that you are searching the document by correctly. To do that, just open the document in eDoc Organizer and use the search function at the bottom of the PDF viewer. If the search finds the words you are looking for, the document should be searchable from the main screen.
 
 ● Windows Search is installed and enabled on your machine.
-
-**6. I created a Label Group using the configure label groups dialog and I don’t see it in the labels panel on the right hand side of the screen.**
+[/ui-accordion-item][/ui-accordion]
+[ui-accordion independent=true open=none][ui-accordion-item title="I created a Label Group using the configure label groups dialog and I don’t see it in the labels panel on the right hand side of the screen."]
 
 When you add a new label group it doesn’t automatically appear in the Labels panel on the right hand side of the main window until there is a label attached to the new label group.
 
@@ -58,36 +58,36 @@ On the _**Labels Panel**_, click the _**Add**_ button to add a new label.
 The _**Create Label**_ dialog will be displayed.
 
 ![](2018-03-24_10h18_37.png)
-
-**7. On the left side where it shows Labels and Filters, they seem to be out of order and wondered how I move them?**
+[/ui-accordion-item][/ui-accordion]
+[ui-accordion independent=true open=none][ui-accordion-item title="On the left side where it shows Labels and Filters, they seem to be out of order and wondered how I move them?"]
 
 The labels of the left hand side in the _**Filter Panel**_ are alphabetically sorted and vary in size depending upon how many documents have that label applied to them. The labels that appear in that list also change based what other searches  or filtering you have already done in the program. Think of it as a list of labels (along with their relevance) that are applied to the documents that are within your search (or all documents if you are not searching or filtering anything). It is just one more tool to help you narrow down your search and find the document you are looking for quickly.
-
-**8. Why do some toolbar buttons seem to be disabled and not available? I want to merge PDF files, but the button is not enabled?**
+[/ui-accordion-item][/ui-accordion]
+[ui-accordion independent=true open=none][ui-accordion-item title="hy do some toolbar buttons seem to be disabled and not available? I want to merge PDF files, but the button is not enabled?"]
 
 Some tool bar buttons are disabled because their action can be initiated only when you select the required document. Specifically to merge pdf files, you need to select more than one document of unencrypted PDF formats.
+[/ui-accordion-item][/ui-accordion]
+[ui-accordion independent=true open=none][ui-accordion-item title="Where does eDoc Organizer store all its data on my computer?"]
 
-**9. Where does eDoc Organizer store all its data on my computer?**
+By default, On-Premise stores its database and document repository under **C:\ProgramData\eDoc LLC\eDoc Organizer\Documents**. You can change this option by opening eDoc Organizer Manager and choosing a different location. Cloud stores the documents on secure Microsoft Azure servers.[/ui-accordion-item][/ui-accordion]
 
-By default, On-Premise stores its database and document repository under **C:\ProgramData\eDoc LLC\eDoc Organizer\Documents**. You can change this option by opening eDoc Organizer Manager and choosing a different location. Cloud stores the documents on secure Microsoft Azure servers.
+[ui-accordion independent=true open=none][ui-accordion-item title="How does eDoc store documents? More specifically, is there a proprietary format such that I will always need eDoc to view, edit and transport my data store or will I be able to open my files in Windows Explorer or some other compatible file manager?"]
 
-**10. How does eDoc store documents? More specifically, is there a proprietary format such that I will always need eDoc to view, edit and transport my data store or will I be able to open my files in Windows Explorer or some other compatible file manager?**
+eDoc Organizer does not store documents in a proprietary format. All scanned documents are stored as a standard format PDF or picture format that can be open with any PDF reader or picture editor. Imported files retain their format during the import process. So a picture imported as JPG remains as JPG when stored in eDoc Organizer document storage folder. You can open all documents stored in eDoc Organizer from Windows Explorer as well.[/ui-accordion-item][/ui-accordion]
 
-eDoc Organizer does not store documents in a proprietary format. All scanned documents are stored as a standard format PDF or picture format that can be open with any PDF reader or picture editor. Imported files retain their format during the import process. So a picture imported as JPG remains as JPG when stored in eDoc Organizer document storage folder. You can open all documents stored in eDoc Organizer from Windows Explorer as well.
+[ui-accordion independent=true open=none][ui-accordion-item title="I created a new Label Group but I don’t see it in the list of Labels."]
 
-**11. I created a new Label Group but I don’t see it in the list of Labels.**
+Label groups don't show up in the list of labels, until you create at least one label under that label group. Try creating a new label associated with the new label group. If you already created a label under that label group, make sure to scroll down the list as Label Groups are shown alphabetically in the Labels panel.[/ui-accordion-item][/ui-accordion]
 
-Label groups don't show up in the list of labels, until you create at least one label under that label group. Try creating a new label associated with the new label group. If you already created a label under that label group, make sure to scroll down the list as Label Groups are shown alphabetically in the Labels panel.
+[ui-accordion independent=true open=none][ui-accordion-item title=" Which scanners can I use with eDoc Organizer? Can I use my own scanner?"]
 
-**12. Which scanners can I use with eDoc Organizer? Can I use my own scanner?**
+Yes, you can use any TWAIN or WIA compliant scanner with eDoc Organizer. You can switch between the TWAIN and WIA scanning interfaces in the Application Options dialog of eDoc Organizer (Tools > Options menu item).[/ui-accordion-item][/ui-accordion]
 
-Yes, you can use any TWAIN or WIA compliant scanner with eDoc Organizer. You can switch between the TWAIN and WIA scanning interfaces in the Application Options dialog of eDoc Organizer (Tools > Options menu item).
-
-**13. Is eDoc Organizer compatible with Fujitsu ScanSnap devices?**
+[ui-accordion independent=true open=none][ui-accordion-item title="Is eDoc Organizer compatible with Fujitsu ScanSnap devices?"]
 
 eDoc Organizer is not directly compatible with Fujitsu ScanSnap scanner series devices. Fujitsu has decided not to provide TWAIN drivers for these scanners which would allow eDoc Organizer to communicate with it directly ([http://scansnapcommunity.com/tips-tricks/162-why-doesnt-scansnap-come-with-twain-drivers/](http://scansnapcommunity.com/tips-tricks/162-why-doesnt-scansnap-come-with-twain-drivers/)).
 
-The best way to use ScanSnap devices with eDoc Organizer is to use the Folder Monitor Feature of eDoc Organizer. ScanSnap devices can be configured to scan directly to a specified folder on your computer. eDoc Organizer, via the Folder Monitor feature, can be configured to watch that particular folder and automatically import any files that are added to that folder. Please refer to [http://www.edocorganizer.com/manual/FolderMonitors.html](http://www.edocorganizer.com/manual/FolderMonitors.html) section of the help manual for instructions on how to configure Folder Monitors in eDoc Organizer.
+The best way to use ScanSnap devices with eDoc Organizer is to use the Folder Monitor Feature of eDoc Organizer. ScanSnap devices can be configured to scan directly to a specified folder on your computer. eDoc Organizer, via the Folder Monitor feature, can be configured to watch that particular folder and automatically import any files that are added to that folder. Please refer to [http://www.edocorganizer.com/manual/FolderMonitors.html](http://www.edocorganizer.com/manual/FolderMonitors.html) section of the help manual for instructions on how to configure Folder Monitors in eDoc Organizer.[/ui-accordion-item][/ui-accordion]
 [/ui-tab]
 [ui-tab title="On-Premise Edition FAQs"]
 **How can I migrate my eDoc Organizer Home Edition data to the On-Premise Edition?**
