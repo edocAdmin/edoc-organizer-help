@@ -10,8 +10,7 @@ process:
 visible: true
 ---
 
-# How to Organize Documents Using eDoc Organizer
-
+[ui-accordion independent=true open=none][ui-accordion-item title="How to Organize Documents Using eDoc Organizer"]
 Organizing documents in eDoc Organizer is different than organizing documents in other systems. While most people are used to using folders and subfolders to store and organize files, eDoc Organizer uses a labeling system. This system is different than what most of our users are used to, and this is by design. Documents are accessed in a more efficient and better-organized system with labels.
 
 **Labels vs. Folders**
@@ -41,10 +40,10 @@ For example, a medical office can create patient labels based on last name, mont
 
 – Move from general to specific. Begin with a general label, “2012” for instance, and move to more specific labels. For example, labels for your bank statements might look something like this: 2012>March>US Bank>Checking. You might have something similar for your savings account, where “checking” would be replaced by “savings”.
 
-– Use the Label Search feature in eDoc to find specific documents quickly.
+– Use the Label Search feature in eDoc to find specific documents quickly.[/ui-accordion-item][/ui-accordion]
 
-# Adding/editing/deleting/arranging labels
 
+[ui-accordion independent=true open=none][ui-accordion-item title="Adding/editing/deleting/arranging labels"]
 Adding a new label: 
 1. In the label panel to the right of the user interface, click the add button that is a green circle with a white plus symbol in it.  
 2. The create label screen will come up, here you can choose a color for the label, choose the label group, and the name of the new label.  You can also add words to the text box that will be used to suggest this label for future documents. 
@@ -63,18 +62,15 @@ Deleting a Label:
 
 Arranging Labels: 
 1. Choose a label to move by clicking on it.  Use the blue arrows at the top of the label panel bar to arrange the order of the labels.
+[/ui-accordion-item][/ui-accordion]
 
-# Integrate eDoc Organizer with Gmail
-
-eDoc Organizer will work with most email clients like Microsoft Outlook, Outlook Express or Microsoft Live Mail. To integrate it with Gmail, you have to enable POP access to your Gmail account and setup one of these clients on your computer. Once you have completed that process, eDoc Organizer will be able to share documents via email using your Gmail account.
+[ui-accordion independent=true open=none][ui-accordion-item title="Integrate eDoc Organizer with Gmail"]eDoc Organizer will work with most email clients like Microsoft Outlook, Outlook Express or Microsoft Live Mail. To integrate it with Gmail, you have to enable POP access to your Gmail account and setup one of these clients on your computer. Once you have completed that process, eDoc Organizer will be able to share documents via email using your Gmail account.
 
 You can find Google’s instructions on enabling POP access and setting up the client of your choice at [http://mail.google.com/support/bin/answer.py?answer=13273](http://mail.google.com/support/bin/answer.py?answer=13273).
 
-Just because you setup this new way of accessing your Gmail account, doesn’t mean you have to use this method for all your day to day correspondence. You can continue access Gmail via the web, this method is only needed to enable eDoc Organizer to send documents via your Gmail account.
+Just because you setup this new way of accessing your Gmail account, doesn’t mean you have to use this method for all your day to day correspondence. You can continue access Gmail via the web, this method is only needed to enable eDoc Organizer to send documents via your Gmail account.[/ui-accordion-item][/ui-accordion]
 
-# How to Scan in Business Cards using eDoc Organizer
-
-What appears on screen after you scan the business card is partly dependent on the  scanner you are using and partly dependent on the settings you are using within eDoc Organizer. The first thing to try is to see if your scanners driver has an option to correctly scan a document that is the size of a typical business card (3.5 by 2 inches). If it does, the option would be automatically listed under the document size drop-down in the scan document wizard.
+[ui-accordion independent=true open=none][ui-accordion-item title="How to Scan in Business Cards using eDoc Organizer"]What appears on screen after you scan the business card is partly dependent on the  scanner you are using and partly dependent on the settings you are using within eDoc Organizer. The first thing to try is to see if your scanners driver has an option to correctly scan a document that is the size of a typical business card (3.5 by 2 inches). If it does, the option would be automatically listed under the document size drop-down in the scan document wizard.
 
 ![](ss1.png)
 
@@ -86,19 +82,17 @@ This will open the application that your scanner manufacturer ships with your de
 
 Finally if all fails you can manually reset the size of the scanned page to the correct size, by using the Manual or Automatic crop buttons in the Scan Document Wizard.
 
-![](ss3.png)
+![](ss3.png)[/ui-accordion-item][/ui-accordion]
 
-# How to set up eDoc Organizer Folder Monitoring
-
-To set up folder monitoring simply open up your eDoc Organizer and go to the _**Tool**_ bar. Under _**Tool**_ drop down to _**configure folder monitors**_, where you will click on _**add**_. This will open a window where you can choose the folder that will be monitored, add labels that will be automatically added to the documents and designate where the documents will be moved to outside of eDoc Organizer. To choose to delete the file from the folder select _**delete source files**_. Be sure to click the _**Save**_ button when you have selected the settings you prefer.
+[ui-accordion independent=true open=none][ui-accordion-item title="How to set up eDoc Organizer Folder Monitoring"]To set up folder monitoring simply open up your eDoc Organizer and go to the _**Tool**_ bar. Under _**Tool**_ drop down to _**configure folder monitors**_, where you will click on _**add**_. This will open a window where you can choose the folder that will be monitored, add labels that will be automatically added to the documents and designate where the documents will be moved to outside of eDoc Organizer. To choose to delete the file from the folder select _**delete source files**_. Be sure to click the _**Save**_ button when you have selected the settings you prefer.
 
 Folders are monitored for new files only when eDoc Organizer is running. Any files added when eDoc Organizer is closed are imported the next time the program is started.
 
-To edit folder monitors simply go back to _**Tool->Configure Folder Monitors**_ choose the folder that you wish to edit from the list of folders you are having eDoc Organizer monitor, and select _**Edit**_. Make the changes you wish and then be sure to _**save**_ your work. To delete a folder monitor you would go to the same location but chose the _**delete**_ option. You will be asked to confirm that you want to delete the folder monitor.
+To edit folder monitors simply go back to _**Tool->Configure Folder Monitors**_ choose the folder that you wish to edit from the list of folders you are having eDoc Organizer monitor, and select _**Edit**_. Make the changes you wish and then be sure to _**save**_ your work. To delete a folder monitor you would go to the same location but chose the _**delete**_ option. You will be asked to confirm that you want to delete the folder monitor.[/ui-accordion-item][/ui-accordion]
 
-# How to turn on automatic label suggestions
+[ui-accordion independent=true open=none][ui-accordion-item title="How to turn on automatic label suggestions"]
+**Turning on Automatic Label Suggestions for a particular label ** 
 
-Turning on Automatic Label Suggestions for a particular label  
 Let’s say that you wanted to apply the label “My Company” to all documents that contained the name of your company. We will use Contoso as the company name in this example.
 
 Click on the New Label button to create a new Label.
@@ -131,11 +125,9 @@ Now when we import an old document with Acme in the text the “My Company” La
 
 2. It is better to provide more than one word for ALS. In cases where the document is scanned, ALS relies on accurate Optical Character Recognition (OCR) to find the words in the documents. The more unique words you provide as ALS triggers, the more chances you have of finding a match.
 
-3. Automatic Label Suggestions is a convenience feature and is not guaranteed to have an 100% accurate detection rate. Inaccurate OCR or a word that you think should be in the document, not being there can cause inaccurate ALS suggestions. It is always advisable to review the labels suggested by eDoc Organizer and adjust them before applying them to the document.
+3. Automatic Label Suggestions is a convenience feature and is not guaranteed to have an 100% accurate detection rate. Inaccurate OCR or a word that you think should be in the document, not being there can cause inaccurate ALS suggestions. It is always advisable to review the labels suggested by eDoc Organizer and adjust them before applying them to the document.[/ui-accordion-item][/ui-accordion]
 
-# Scan a multi-page document using eDoc Organizer
-
-The best way to scan a multi-page document depends upon the capabilities of your scanner. If your scanner has an Automatic Document Feeder (ADF) then using it will allow you to scan all the pages of a document at the same time. But even if your scanner doesn’t have an ADF, you can still scan the pages of your document one-at-a-time and save them as a single document in eDoc Organizer.
+[ui-accordion independent=true open=none][ui-accordion-item title="Scan a multi-page document using eDoc Organizer"]The best way to scan a multi-page document depends upon the capabilities of your scanner. If your scanner has an Automatic Document Feeder (ADF) then using it will allow you to scan all the pages of a document at the same time. But even if your scanner doesn’t have an ADF, you can still scan the pages of your document one-at-a-time and save them as a single document in eDoc Organizer.
 
 **Scanning a multi-page document with Automatic Document Feeder (ADF)**
 
@@ -177,11 +169,9 @@ _If your scanner has an ADF the option to Use document feeder (ADF) will be avai
 
 7. Repeat step 6 for the rest of the pages of your document.
 
-8. Once you have scanned all the pages of your document, press the “Save and Finish” button to save all the pages in a single PDF file within eDoc Organizer.
+8. Once you have scanned all the pages of your document, press the “Save and Finish” button to save all the pages in a single PDF file within eDoc Organizer.[/ui-accordion-item][/ui-accordion]
 
-# Resolve Common Scanner/Scanning Issues
-
-_"My scanner is not shown in the list of scanners in eDoc Organizer.”_
+[ui-accordion independent=true open=none][ui-accordion-item title="Resolve Common Scanner/Scanning Issues"]_"My scanner is not shown in the list of scanners in eDoc Organizer.”_
 
 _“I receive an error when I try to scan using eDoc Organizer.”_
 
@@ -209,11 +199,9 @@ _Ensure that your scanner manufacturer provides at least one of these type of sc
 
 ![](ss16.png)
 
-Following these steps helps resolve eDoc Organizer scanning issues for most of our customers. If your problems are not resolved by following these steps, please contact our support team at [mailto:support@edocllc.com](support@edocllc.com) and they would be happy to assist in helping you troubleshoot the issue.
+Following these steps helps resolve eDoc Organizer scanning issues for most of our customers. If your problems are not resolved by following these steps, please contact our support team at [mailto:support@edocllc.com](support@edocllc.com) and they would be happy to assist in helping you troubleshoot the issue.[/ui-accordion-item][/ui-accordion]
 
-# Import emails into eDoc Organizer
-
-There are various different ways to import emails into eDoc Organizer. 
+[ui-accordion independent=true open=none][ui-accordion-item title="Import emails into eDoc Organizer"]There are various different ways to import emails into eDoc Organizer. 
 
 **eDoc Organizer Printer**
 
@@ -242,4 +230,4 @@ Make the appropriate changes and Click the Apply button at the end to apply the 
 
 **Drag & Drop (Microsoft Outlook)**
 
-If you use Microsoft Office Outlook program as your email program, you can directly drag and drop the email from Outlook into eDoc Organizer. This will store the email along with any attachments into eDoc Organizer in MSG format.
+If you use Microsoft Office Outlook program as your email program, you can directly drag and drop the email from Outlook into eDoc Organizer. This will store the email along with any attachments into eDoc Organizer in MSG format.[/ui-accordion-item][/ui-accordion]
