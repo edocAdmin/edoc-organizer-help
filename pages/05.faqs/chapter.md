@@ -93,6 +93,16 @@ eDoc Organizer is not directly compatible with Fujitsu ScanSnap scanner series d
 The best way to use ScanSnap devices with eDoc Organizer is to use the Folder Monitor Feature of eDoc Organizer. ScanSnap devices can be configured to scan directly to a specified folder on your computer. eDoc Organizer, via the Folder Monitor feature, can be configured to watch that particular folder and automatically import any files that are added to that folder. Please refer to [http://www.edocorganizer.com/manual/FolderMonitors.html](http://www.edocorganizer.com/manual/FolderMonitors.html) section of the help manual for instructions on how to configure Folder Monitors in eDoc Organizer.
 [/ui-tab]
 [ui-tab title="On-Premise Edition FAQs"]
+**How can I migrate my eDoc Organizer Home Edition data to the On-Premise Edition?**
+
+[notice]**PLEASE NOTE: The migration utility only adds data to the on-premise edition. It doesn't delete the existing data. It is recommended that you delete all default Labels and Label Groups from the On-Premise edition before starting the migration process to avoid duplication. The easiest way to do this is to go to Tools > Configure Label Groups menu item in the On-Premise client and delete all existing groups before starting the migration process.**[/notice]
+
+1. Create an On-Premise account at [https://on-premise.edocorganizer.com/](https://on-premise.edocorganizer.com/)
+2. Create a local backup from your eDoc Organizer Home Edition (File > Backup menu item). You might already have this part done.
+3. Download and install the On-Premise Migration Utility from [http://www.edocorganizer.com/Downloads/eDocOrganizerOnPremiseMigrationSetup_1.3.0.exe.](http://www.edocorganizer.com/Downloads/eDocOrganizerOnPremiseMigrationSetup_1.3.0.exe.)
+4. Use the Migration Utility to migrate the eDoc Organizer Home Edition backup created in step 1 to the On-Premise Edition.
+5. Verify that the data has been successfully transferred to the On-Premise edition.
+6. Activate On-Premise Edition on the new computer.
 [/ui-tab]
 [ui-tab title="Cloud Edition FAQs"]
 **How can I get an invoice / payment receipt for my eDoc Organizer Cloud Service subscription?**
