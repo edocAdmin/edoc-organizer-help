@@ -1,7 +1,9 @@
 ---
-title: Advanced Topic 1
+title: 'Advanced Topic 1'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem markdownum voces. Adire nant ingreditur quam evadere dixit caelestum
