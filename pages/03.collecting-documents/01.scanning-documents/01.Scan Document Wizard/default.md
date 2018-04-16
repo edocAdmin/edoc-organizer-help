@@ -24,3 +24,5 @@ _**Scan Document Wizard Tool Bar**_
 The _**Scan Document Wizard Tool Bar**_ provides quick access to various scan and image correction tasks that you can perform within the eDoc Organizer’s Scan Document Wizard.
  
 [notice]Note: Some of the tasks/options in the Tool Bar are disabled and are enabled only when you select the scanned page.[/notice]
+
+![](2018-04-16_17h25_19_2.png)
