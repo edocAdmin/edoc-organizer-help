@@ -26,3 +26,20 @@ The _**Scan Document Wizard Tool Bar**_ provides quick access to various scan an
 [notice]Note: Some of the tasks/options in the Tool Bar are disabled and are enabled only when you select the scanned page.[/notice]
 
 ![](2018-04-16_17h25_19_2.png)
+
+The available options/tasks in the _**Scan Document Wizard Tool Bar**_ are given below.
+
+| **Icon**  | **Option/Task** | **Description** |
+| ------------- | ------------- |
+| ![](2018-03-24_11h28_371.png) | Review | To review a scanned page |
+| ![](2018-03-24_11h28_372.png) | Move Up | To move up a scanned page in the list of all scanned pages |
+| ![](2018-03-24_11h28_373.png) | Move Down | To move down a scanned page in the list of all scanned pages |
+| ![](2018-03-24_11h28_374.png) | Delete | To delete a scanned page |
+| ![](2018-03-24_11h28_375.png) | Rescan  | To rescan a page |
+| ![](2018-03-24_11h28_376.png) | Rotate Left | To rotate the scanned page to the left |
+| ![](2018-03-24_11h28_377.png) | Rotate Right | To rotate the scanned page to the right |
+| ![](2018-03-24_11h28_378.png) | Auto Crop  | To remove or adjust the excess or the blank part of the scanned page |
+| ![](2018-03-24_11h28_379.png) | Manual Crop | To manually remove or adjust the excess or the blank part of the scanned page |
+| ![](2018-03-24_11h28_37010.png) | Add | To mark the selected page as the start of a new document |
+| ![](2018-03-24_11h28_3711.png) | Remove | To hde or show Filter Panel |
+| ![](2018-03-24_11h28_3712.png) | Mark All | To mark all selected documents for change |
