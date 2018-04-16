@@ -14,7 +14,9 @@ The _**Scan Document Wizard**_ has a very easy interface that lets you acquire i
 The _**Scan Document Wizard**_ has the following components:
 
 ●Scan Document Wizard Tool Bar
+
 ●Scan Document Workspace
+
 ●Scan Settings Panel
 
 _**Scan Document Wizard Tool Bar**_
