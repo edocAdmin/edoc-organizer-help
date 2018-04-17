@@ -36,8 +36,10 @@ The available options/tasks in the _**Scan Document Wizard Tool Bar**_ are given
 | ![](2018-03-24_11h28_373.png) | Move Down | To move down a scanned page in the list of all scanned pages |
 | ![](2018-03-24_11h28_374.png) | Delete | To delete a scanned page |
 | ![](2018-03-24_11h28_375.png) | Rescan  | To rescan a page |
+| ![](2018-03-24_11h28_376.png) | Rotate| To rotate the scanned page 180 degrees |
 | ![](2018-03-24_11h28_376.png) | Rotate Left | To rotate the scanned page to the left |
 | ![](2018-03-24_11h28_377.png) | Rotate Right | To rotate the scanned page to the right |
+| ![](2018-03-24_11h28_377.png) | Clean | To clean the scanned page |
 | ![](2018-03-24_11h28_378.png) | Auto Crop  | To remove or adjust the excess or the blank part of the scanned page |
 | ![](2018-03-24_11h28_379.png) | Manual Crop | To manually remove or adjust the excess or the blank part of the scanned page |
 | ![](2018-03-24_11h28_37010.png) | Add | To mark the selected page as the start of a new document |
