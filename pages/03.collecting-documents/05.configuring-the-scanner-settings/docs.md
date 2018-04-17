@@ -1,5 +1,5 @@
 ---
-title: 'Scanning a Document'
+title: 'Configuring the Scanner Settings'
 taxonomy:
     category:
         - docs
