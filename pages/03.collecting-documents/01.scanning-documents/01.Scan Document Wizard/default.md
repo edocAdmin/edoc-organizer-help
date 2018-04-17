@@ -55,3 +55,5 @@ The _**Scan Document Workspace**_ shows all of your scanned pages. It is from th
 _**Scan Settings Panel**_
 
 The _**Scan Settings Panel**_ allows you to manage all the scanner related settings such as Scanner, scanner type, document size, quality, saving format etc.
+
+![](2018-04-16_17h25_19_016.png)
