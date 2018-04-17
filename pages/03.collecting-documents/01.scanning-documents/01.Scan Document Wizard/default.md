@@ -1,5 +1,5 @@
 ---
-media_order: 2018-04-16_17h25_19_1.png
+media_order: '2018-04-16_17h25_19_1.png,2018-04-16_17h25_19_2.png,2018-04-16_17h25_19_001.png,2018-04-16_17h25_19_002.png,2018-04-16_17h25_19_003.png,2018-04-16_17h25_19_004.png,2018-04-16_17h25_19_005.png,2018-04-16_17h25_19_006.png,2018-04-16_17h25_19_007.png,2018-04-16_17h25_19_008.png,2018-04-16_17h25_19_009.png,2018-04-16_17h25_19_010.png,2018-04-16_17h25_19_011.png,2018-04-16_17h25_19_012.png,2018-04-16_17h25_19_013.png,2018-04-16_17h25_19_014.png'
 taxonomy:
     category:
         - docs
@@ -31,17 +31,17 @@ The available options/tasks in the _**Scan Document Wizard Tool Bar**_ are given
 
 | **Icon**  | **Option/Task** | **Description** |
 | ------------- | ------------- |
-| ![](2018-03-24_11h28_371.png) | Review | To review a scanned page |
-| ![](2018-03-24_11h28_372.png) | Move Up | To move up a scanned page in the list of all scanned pages |
-| ![](2018-03-24_11h28_373.png) | Move Down | To move down a scanned page in the list of all scanned pages |
-| ![](2018-03-24_11h28_374.png) | Delete | To delete a scanned page |
-| ![](2018-03-24_11h28_375.png) | Rescan  | To rescan a page |
-| ![](2018-03-24_11h28_376.png) | Rotate| To rotate the scanned page 180 degrees |
-| ![](2018-03-24_11h28_376.png) | Rotate Left | To rotate the scanned page to the left |
-| ![](2018-03-24_11h28_377.png) | Rotate Right | To rotate the scanned page to the right |
-| ![](2018-03-24_11h28_377.png) | Clean | To clean the scanned page |
-| ![](2018-03-24_11h28_378.png) | Auto Crop  | To remove or adjust the excess or the blank part of the scanned page |
-| ![](2018-03-24_11h28_379.png) | Manual Crop | To manually remove or adjust the excess or the blank part of the scanned page |
-| ![](2018-03-24_11h28_37010.png) | Add | To mark the selected page as the start of a new document |
-| ![](2018-03-24_11h28_3711.png) | Remove | To hde or show Filter Panel |
-| ![](2018-03-24_11h28_3712.png) | Mark All | To mark all selected documents for change |
+| ![](2018-04-16_17h25_19_001.png) | Review | To review a scanned page |
+| ![](2018-04-16_17h25_19_002.png) | Move Up | To move up a scanned page in the list of all scanned pages |
+| ![](2018-04-16_17h25_19_003.png) | Move Down | To move down a scanned page in the list of all scanned pages |
+| ![](2018-04-16_17h25_19_004.png) | Delete | To delete a scanned page |
+| ![](2018-04-16_17h25_19_005.png) | Rescan  | To rescan a page |
+| ![](2018-04-16_17h25_19_006.png) | Rotate| To rotate the scanned page 180 degrees |
+| ![](2018-04-16_17h25_19_007.png) | Rotate Left | To rotate the scanned page to the left |
+| ![](2018-04-16_17h25_19_008.png) | Rotate Right | To rotate the scanned page to the right |
+| ![](2018-04-16_17h25_19_009.png) | Clean | To clean the scanned page |
+| ![](2018-04-16_17h25_19_010.png) | Auto Crop  | To remove or adjust the excess or the blank part of the scanned page |
+| ![](2018-04-16_17h25_19_011.png) | Manual Crop | To manually remove or adjust the excess or the blank part of the scanned page |
+| ![](2018-04-16_17h25_19_012.png) | Add | To mark the selected page as the start of a new document |
+| ![](2018-04-16_17h25_19_013.png)| Remove | To hde or show Filter Panel |
+| ![](2018-04-16_17h25_19_014.png) | Mark All | To mark all selected documents for change |
