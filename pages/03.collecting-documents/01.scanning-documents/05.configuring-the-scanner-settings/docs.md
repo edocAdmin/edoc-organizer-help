@@ -39,23 +39,13 @@ D.Checking the _**Separate documents at blank pages**_ option will cause eDoc Or
 
 3. The Scan Type indicates type of the scan that you wish to perform on the document. The available options are _**Black & White**_, _**Grayscale**_, and _**Color**_. Select the desired type of scan from the _**Scan Type**_ drop down list.
 
-4. The _**Quality**_ field denotes the quality of scanning a document. The available options are Low, Normal and High. Select the desired quality from the Quality drop down list.
+4. The _**Quality**_ field denotes the quality of scanning a document. The available options are _**Low**_, _**Normal**_ and _**High**_. Select the desired quality from the _**Quality**_ drop down list.
 
- 
+[notice]Note: High quality scanning is performed at 600 dpi, Normal scanning is performed at 300 dpi, and Low quality scans are performed at 150 dpi.[/notice]
 
-Note: High quality scanning is performed at 600 dpi, Normal scanning is performed at 300 dpi, and Low quality scans are performed at 150 dpi.
+5. The _**Document Size**_ denotes the size of the scanning document. Select the appropriate size from the _**Document Size**_ drop down list.
 
- 
-
-5.
-
-The Document Size denotes the size of the scanning document. Select the appropriate size from the Document Size drop down list.
-
- 
-
-6.
-
-The Save As option allows you to save the scanned document in two different format: a PDF File or a Photo. In the Photo format, all the pages are saved separately.  Select the required format for saving from the Save As drop down list.
+6. The _**Save As**_ option allows you to save the scanned document in two different format: a _**PDF File**_ or a _**Photo**_. In the Photo format, all the pages are saved separately.  Select the required format for saving from the _**Save As**_ drop down list.
 
  
 
