@@ -11,7 +11,7 @@ visible: true
 
 Scanning a document and collecting are very easy. Simply follow the steps given below.
 
-On the _**File**_ menu, click the _**Scan**_ option, or click the _**Scan**_ option in the _**Tool Bar**_.
+1. On the _**File**_ menu, click the _**Scan**_ option, or click the _**Scan**_ option in the _**Tool Bar**_.
 
 ![](2018-04-16_17h21_45.png)
 
