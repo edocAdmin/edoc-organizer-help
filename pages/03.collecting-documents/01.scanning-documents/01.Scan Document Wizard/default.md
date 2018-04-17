@@ -45,3 +45,9 @@ The available options/tasks in the _**Scan Document Wizard Tool Bar**_ are given
 | ![](2018-04-16_17h25_19_012.png) | Add | To mark the selected page as the start of a new document |
 | ![](2018-04-16_17h25_19_013.png)| Remove | To hde or show Filter Panel |
 | ![](2018-04-16_17h25_19_014.png) | Mark All | To mark all selected documents for change |
+
+_**Scan Document Workspace**_
+
+The _**Scan Document Workspace**_ shows all of your scanned pages. It is from this workspace you can select the scanned pages and perform tasks such as image corrections, marking, review and many more.
+
+![](2018-04-16_17h25_19_015.png)![](2018-04-16_17h25_19_015.png)
