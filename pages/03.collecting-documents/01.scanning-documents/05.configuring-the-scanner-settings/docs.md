@@ -47,30 +47,18 @@ D.Checking the _**Separate documents at blank pages**_ option will cause eDoc Or
 
 6. The _**Save As**_ option allows you to save the scanned document in two different format: a _**PDF File**_ or a _**Photo**_. In the Photo format, all the pages are saved separately.  Select the required format for saving from the _**Save As**_ drop down list.
 
- 
+7. The _**Document Language (for OCR)**_ specifies the language of the scanned document to use when performing OCR. The currently available languages are _**English, French, German, Italian, Spanish, Dutch**_ and _**Other (Don’t Perform OCR)**_. Select the required language for OCR in the _**Document Language**_ drop down list.
 
-7.
+8. If the pages are not placed properly in the scanner for scanning, there are chances that we may get slanted during the scanning process. To correct such slanted documents, it is recommended you check the box besides the _**Correct slanted document**_ and _**Correct page orientation**_ options.
 
-The Document Language (for OCR) specifies the language of the scanned document to use when performing OCR. The currently available languages are English, French, German, Italian, Spanish, Dutch and Other (Don’t Perform OCR). Select the required language for OCR in the Document Language drop down list.
+9. The _**Scan**_ button will activate the scanner and initiate the scanning process.
 
- 
+10. The _**Cancel**_ button will cancel the scanning process.
 
-8.
+After scanning the first page, you will also find several additional buttons available for further scanning and saving tasks. The available buttons are
 
-If the pages are not placed properly in the scanner for scanning, there are chances that we may get slanted during the scanning process. To correct such slanted documents, it is recommended you check the box besides the Correct slanted document option.
+●_**Scan More Pages**_ – To scan additional pages of the document
 
- 
+●_**Save & New**_ – To save the current scanned pages in a document and start scanning a new document.
 
-9.
-
-The Scan button will activate the scanner and initiate the scanning process.
-
- 
-
-10.
-
-The Cancel button will cancel the scanning process.
-
- 
-
-After scanning the first page, you will also find several additional buttons available for further scanning and saving tasks.
+●_**Save & Close**_ – To save the current scanned pages in a document and close the Scan Document Wizard.
