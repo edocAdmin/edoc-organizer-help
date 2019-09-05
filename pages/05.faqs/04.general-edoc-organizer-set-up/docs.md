@@ -199,7 +199,7 @@ _Ensure that your scanner manufacturer provides at least one of these type of sc
 
 ![](ss16.png)
 
-Following these steps helps resolve eDoc Organizer scanning issues for most of our customers. If your problems are not resolved by following these steps, please contact our support team at [mailto:support@edocllc.com](support@edocllc.com) and they would be happy to assist in helping you troubleshoot the issue.[/ui-accordion-item][/ui-accordion]
+Following these steps helps resolve eDoc Organizer scanning issues for most of our customers. If your problems are not resolved by following these steps, please contact our support team at [support@edocllc.com](mailto:support@edocllc.com) and they would be happy to assist in helping you troubleshoot the issue.[/ui-accordion-item][/ui-accordion]
 
 [ui-accordion independent=true open=none][ui-accordion-item title="Import emails into eDoc Organizer"]There are various different ways to import emails into eDoc Organizer. 
 

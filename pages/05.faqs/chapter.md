@@ -99,7 +99,7 @@ The best way to use ScanSnap devices with eDoc Organizer is to use the Folder Mo
 
 1. Create an On-Premise account at [https://on-premise.edocorganizer.com/](https://on-premise.edocorganizer.com/)
 2. Create a local backup from your eDoc Organizer Home Edition (File > Backup menu item). You might already have this part done.
-3. Download and install the On-Premise Migration Utility from [http://www.edocorganizer.com/Downloads/eDocOrganizerOnPremiseMigrationSetup_1.3.0.exe.](http://www.edocorganizer.com/Downloads/eDocOrganizerOnPremiseMigrationSetup_1.3.0.exe.)
+3. Download and install the On-Premise Migration Utility from [http://download.edocorganizer.com/OnPremiseMigrationSetup.exe.](http://download.edocorganizer.com/OnPremiseMigrationSetup.exe.)
 4. Use the Migration Utility to migrate the eDoc Organizer Home Edition backup created in step 1 to the On-Premise Edition.
 5. Verify that the data has been successfully transferred to the On-Premise edition.
 6. Activate On-Premise Edition on the new computer.[/ui-accordion-item][/ui-accordion]
@@ -165,7 +165,7 @@ After you log into your eDoc Organizer cloud service account at [https://cloud.e
 
 [notice]Note: To ensure successful transfer please ensure that you have signed up for the appropriate plan with enough storage space in eDoc Organizer cloud edition to accommodate all your data. If you are not sure, we recommend that you signup for a plan with higher storage allocation and then reduce it once your data has been transferred successfully. You can get a rough estimate of how many documents you have and what their sizes are by opening eDoc Organizer Home Edition and pressing Ctrl+Alt+O key combination in the main window. This will open the location on your computer where all the documents are stored. Right click on the 'Document store' folder and click on Properties to see how many files and the total size of that folder.[/notice]
 
-3. Download and install the Cloud Migration Utility from the following link: [http://www.edocorganizer.com/Downloads/CloudMigrationSetup.exe](http://www.edocorganizer.com/Downloads/CloudMigrationSetup.exe). The Cloud Migration Utility can take a eDoc Organizer home edition backup and migrate it to the cloud service.
+3. Download and install the Cloud Migration Utility from the following link: [http://download.edocorganizer.com/CloudMigrationSetup.exe.](http://download.edocorganizer.com/CloudMigrationSetup.exe.). The Cloud Migration Utility can take a eDoc Organizer home edition backup and migrate it to the cloud service.
 
 4. Run the Cloud Migration Utility. Enter the credentials of the eDoc Organizer Cloud service account and point the utility to the latest backup from your eDoc Organizer home edition. Click the 'Start Migration' button to start the upload of your data to the cloud account. 
 
